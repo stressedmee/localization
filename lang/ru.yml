@@ -1,1 +1,104 @@
-1
+ERROR_COMMAND: '§cОшибка, используйте - %s'
+
+PING: 'Ваш пинг §a%s §rms'
+
+NO_FOUND_PLAYER: '§cОшибка, игрок %s §cне найден'
+NO_NEVER_PLAYED: '§cОшибка, игрок %s никогда прежде не играл на нашем сервере'
+
+SUBCOMMAND_HELP: 'Список команд для §e%s§r:'
+
+TIME_DAY_1:
+- 'д'
+- 'ень'
+- 'ня'
+- 'ней'
+TIME_SECOND_2:
+- 'секунд'
+- 'а'
+- 'ы'
+- ''
+TIME_HOURS_1:
+- 'час'
+- ''
+- 'а'
+- 'ов'
+TIME_MINUTES_1:
+- 'минут'
+- 'у'
+- 'ы'
+- ''
+TIME_MINUTES_2:
+- 'минут'
+- 'а'
+- 'ы'
+- ''
+MONEY_1:
+- 'монет'
+- 'а'
+- 'ы'
+- ''
+GOLD_1:
+- 'золот'
+- 'о'
+- 'а'
+- 'а'
+
+ALL_CANT_CONTACT_HIM: '§cОшибка, игрок %s §cотключил личные сообщения'
+YOU_CANT_CONTACT_HIM: '§cОшибка, игрок %s §cигнорирует вас'
+CANT_MESSAGE_YOURSELF: '§cВы не можете написать самому себе'
+CANT_IGNORE_YOURSELF: '§cВы не можете игнорировать самого себя'
+PLAYER_IGNORED: 'Вы добавили игрока %s §rв список игнорируемых'
+PLAYER_NOT_IGNORED: 'Вы убрали игрока %s §rиз списка игнорируемых'
+REPLY_PLAYER_NULL: '§cОшибка, вам еще не писали личных сообщений'
+PLAYERS_UNIGNORED: 'Теперь игроки могут отправлять вам личные сообщения.'
+PLAYERS_IGNORED: 'Теперь игроки не могут отправлять вам личные сообщения.'
+SENT_MESSAGE_FORMAT: ' §eЛС §8| §eЯ §8-> %s §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §eЛС §8| %s §8-> §eЯ §8| §f%s'
+REPLY_HOVER_MESSAGE:
+- '§fНажмите сюда, чтобы еще раз написать'
+- '§fигроку %s §fв лс'
+
+GROUP_HELP:
+  - ' §7/group set <ник игрока> <группа> §f- обновить группу'
+  - ' §7/group migrate <старый ник> <новый ник> §f- перенос группы'
+GROUP_ALREADY_DEFAULT: '§cОшибка, у игрока %s §cнет группы'
+GROUP_MIGRATES_BROADCAST: 'Группа игрока %s §rбыла успешно передана на %s'
+GROUP_CHANGES_BROADCAST: '%s §rизменил группу игрока %s §rна %s'
+GROUP_CHANGE: 'Группа %s §rбыла успешно установлена игроку %s'
+PLAYER_ALREADY_GROUP: '§cОшибка, у игрока %s §cуже имеется данная группа'
+
+YOU_CANT_BAN_YOURSELF: 'Ошибка, вы не можете заблокировать самого себя'
+ALREADY_BANNED: '§cОшибка, игрок %s §cуже заблокирован'
+BROADCAST_BAN: '%s §rзаблокировал %s §rна §e%s §rпо причине §e%s'
+BROADCAST_UNBAN: '%s §rразблокировал игрока %s'
+NOT_BANNED: '§cОшибка, игрок %s §cне заблокирован'
+ETERNITY: 'вечность'
+
+BALANCE: 'На вашем аккаунте §e%s §r%s и §6%s §r%s'
+
+BANINFO_BAN_MESSAGES:
+- '§rДанные о наказаниях %s§r:'
+- ' §8• §rЗаблокировал: %s'
+- ' §8• §fПричина: §a%s'
+- ' §8• §fВремя: §a%s'
+- ' §8• §fДата блокировки: §a%s'
+
+FRIEND_ACCEPT_FORMAT: '/friend accept <ник игрока>'
+FRIEND_ADD_FORMAT: '/friend add <ник игрока>'
+FRIEND_HELP:
+  - ' §7/friend add <ник игрока> §f- добавить игрока в друзья'
+  - ' §7/friend remove <ник игрока> §f- удалить игрока из друзей'
+  - ' §7/friend accept <ник игрока> §f- принять запрос от игрока'
+  - ' §7/friend requests §f- список всех запросов'
+FRIEND_REQUESTS_EMPTY: '§cК сожалению, пока Вам никто не присылал запросов в друзья ;c'
+FRIEND_DONT_HAVE_INVITES_FROM: '§cОшибка, у вас нет запросов в друзья от игрока %s'
+FRIEND_REQUESTS: '§rАктивные заявки в друзья:'
+FRIEND_YOURSELF_AS_FRIEND: '§cОшибка, вы не можете отправить заявку в друзья самому себе'
+FRIEND_ALREADY_FRIENDS: '§cОшибка, вы уже являетесь друзьями с %s'
+FRIEND_YOU_ACCEPTED_REQUEST: 'Вы приняли запрос в друзья от игрока %s'
+FRIEND_ACCEPTED_REQUEST: 'Поздравляем! Вы успешно стали друзьями с %s'
+FRIEND_INVITE_SENT: 'Вы отправили запрос в друзья игроку %s'
+FRIEND_INVITE_TEXT: 'Игрок %s §fотправил Вам запрос в друзья'
+
+DONATECHAT_FORMAT: '§6Чат донатеров §8| §r%s §8» §7%s'
+STAFFCHAT_FORMAT: '§cЧат персонала §8 §r%s §8» §f%s'
