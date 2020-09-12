@@ -4,6 +4,9 @@ PING: 'Ваш пинг §a%s §rms'
 
 NO_FOUND_PLAYER: '§cОшибка, игрок %s §cне найден'
 NO_NEVER_PLAYED: '§cОшибка, игрок %s никогда прежде не играл на нашем сервере'
+SERVER_NOT_FOUND: '§cОшибка, данный сервер не найден'
+ALREADY_ON_SERVER: '§cОшибка, вы уже находитесь на данном сервере'
+SERVER_TO: 'Вы успешно телепортировались на сервер §e%s'
 
 SUBCOMMAND_HELP: 'Список команд для §e%s§r:'
 
@@ -81,6 +84,9 @@ SKIN_UPDATE_TO: 'Вы обновили скин игрока %s'
 SKIN_UPDATE: 'Вы успешно обновили свой скин'
 SKIN_HAS_BEEN_CHANGED: 'Вы изменили свой скин на §e%s'
 SKIN_HAS_BEEN_CHANGED_URL: 'Вы изменили свой скин с помощью §e%s'
+
+FIND_RESULT: '%s §rнаходится на сервере §a%s'
+SERVER_NOT_FOUND: '§cОшибка, данный сервер не найден'
 
 SKIN_HELP:
   - ' §7/skin set <ник игрока> §f- установить скин игрока'
