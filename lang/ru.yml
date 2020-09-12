@@ -74,6 +74,17 @@ BROADCAST_UNBAN: '%s §rразблокировал игрока %s'
 NOT_BANNED: '§cОшибка, игрок %s §cне заблокирован'
 ETERNITY: 'вечность'
 
+SKIN_RESET_TO: 'Вы удалили скин игрока %s'
+SKIN_RESET: 'Вы удалили свой скин'
+SKIN_ERROR: '§cОшибка, нам не удалось получить скин, сообщите администрации'
+SKIN_UPDATE_TO: 'Вы обновили скин игрока %s'
+SKIN_UPDATE: 'Вы успешно обновили свой скин'
+SKIN_HAS_BEEN_CHANGED: 'Вы изменили свой скин на §e%s'
+SKIN_HAS_BEEN_CHANGED_URL: 'Вы изменили свой скин с помощью §e%s'
+
+SKIN_HELP:
+  - ' §7/skin set <ник игрока> §f- установить скин игрока'
+
 BALANCE: 'На вашем аккаунте §e%s §r%s и §6%s §r%s'
 
 BANINFO_BAN_MESSAGES:
