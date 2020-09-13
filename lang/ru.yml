@@ -77,6 +77,9 @@ BROADCAST_UNBAN: '%s §rразблокировал игрока %s'
 NOT_BANNED: '§cОшибка, игрок %s §cне заблокирован'
 ETERNITY: 'вечность'
 
+STAFFCHAT_ENABLED: '%s §rвключил чат персонала'
+STAFFCHAT_DISABLED: '%s §rотключил чат персонала'
+
 SKIN_RESET_TO: 'Вы удалили скин игрока %s'
 SKIN_RESET: 'Вы удалили свой скин'
 SKIN_ERROR: '§cОшибка, нам не удалось получить скин, сообщите администрации'
