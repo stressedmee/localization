@@ -27,6 +27,17 @@ GROUP_CHANGES_BROADCAST: '%s §rchanged the group of player %s §rto %s'
 GROUP_CHANGE: 'Group %s §rwas successfully changed to the player %s'
 PLAYER_ALREADY_GROUP: '§cError, player %s §calready has this group'
 
+HIDER_ENABLE_NAME: '§aShow players'
+HIDER_ENABLE_LORE:
+- '§7Use this item,'
+- '§7to show players'
+HIDER_DISABLE_NAME: '§cHide players'
+HIDER_DISABLE_LORE:
+- '§7Use this item,'
+- '§7to hide players'
+
+STAFFCHAT_ENABLED: '%s §rturned on staff chat'
+STAFFCHAT_DISABLED: '%s §rdisabled staff chat'
 
 DONATECHAT_FORMAT: '§6Donate chat §8| §r%s §8» §7%s'
 STAFFCHAT_FORMAT: '§cStaff chat §8| §r%s §8» §7%s'
