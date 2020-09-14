@@ -80,6 +80,15 @@ BROADCAST_UNBAN: '%s §rразблокировал игрока %s'
 NOT_BANNED: '§cОшибка, игрок %s §cне заблокирован'
 ETERNITY: 'вечность'
 
+HIDER_ENABLE_NAME: '§aПоказать игроков'
+HIDER_ENABLE_LORE:
+- '§7Используйте этот предмет,'
+- '§7чтобы показать игроков'
+HIDER_DISABLE_NAME: '§cСкрыть игроков'
+HIDER_DISABLE_LORE:
+- '§7Используйте этот предмет,'
+- '§7чтобы скрыть игроков'
+
 STAFFCHAT_ENABLED: '%s §rвключил чат персонала'
 STAFFCHAT_DISABLED: '%s §rотключил чат персонала'
 
