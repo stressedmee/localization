@@ -92,6 +92,8 @@ HIDER_DISABLE_LORE:
 STAFFCHAT_ENABLED: '%s §rвключил чат персонала'
 STAFFCHAT_DISABLED: '%s §rотключил чат персонала'
 
+HOLO_TOP_PLACE: '§e%s место'
+
 SKIN_RESET_TO: 'Вы удалили скин игрока %s'
 SKIN_RESET: 'Вы удалили свой скин'
 SKIN_ERROR: '§cОшибка, нам не удалось получить скин, сообщите администрации'
