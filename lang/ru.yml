@@ -92,6 +92,8 @@ HIDER_DISABLE_LORE:
 STAFFCHAT_ENABLED: '%s §rвключил чат персонала'
 STAFFCHAT_DISABLED: '%s §rотключил чат персонала'
 
+CRASH: 'Вы крашнули клиент игрока %s'
+
 HOLO_TOP_PLACE: '§e%s место'
 
 SKIN_RESET_TO: 'Вы удалили скин игрока %s'
