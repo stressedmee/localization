@@ -177,6 +177,12 @@ PLAYER_WARP_ITEM_EMPTY_LORE:
 PLAYER_WARP_FORMAT: '/playerwarp <имя игрока>'
 PLAYER_WARP_GUI_NAME: 'Список варпов - %s'
 
+PAGE_ARROW1: '§aСледующая страница'
+PAGE_ARROW2: '§aПредыдущая страница'
+PAGE_ARROW_LORE:
+- '§7Нажмите для перехода'
+- '§7на %s страницу'
+
 MYWARP_ITEM_CHANGER_LORE:
 - ''
 - '§7Показать список личных варпов'
