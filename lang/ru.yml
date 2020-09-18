@@ -214,6 +214,7 @@ KIT_LORE_DISABLE:
 - ''
 - '§cНабор будет доступен через'
 - '§c%s'
+KIT_GUI_NAME: 'Выбор набора'
 
 BANINFO_BAN_MESSAGES:
 - '§rДанные о наказаниях %s§r:'
