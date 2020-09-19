@@ -166,6 +166,10 @@ AUCTION_MYGUI_NAME: 'Ваши предметы'
 AUCTION_PLAYERGUI_NAME: 'Предметы игрока %s'
 AUCTION_TYPEGUI_NAME: 'Выбор категории'
 
+BACK_ITEM_NAME: '§cНазад'
+BACK_ITEM_LORE:
+  - '§7Нажмите, чтобы вернуться на шаг назад'
+
 AUCTION_LORE_MYGUI: 
   - ''
   - '§7Цена: §a%s$'
