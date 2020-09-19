@@ -214,6 +214,16 @@ AUCTION_TYPE_RESOURCES_NAME: 'Ресурсы'
 AUCTION_TYPE_FARMING_NAME: 'Растения'
 AUCTION_TYPE_OTHER_NAME: 'Остальное'
 AUCTION_TYPE_ALL_NAME: 'Все'
+AUCTION_LORE_ITEM:
+  - ''
+  - '§7Продавец: %s'
+  - '§7Цена: §e%s$'
+  - ''
+  - '§7Истекает через:'
+  - ' %s'
+  - ''
+  - '§e▸ ЛКМ, чтобы купить'
+  - '§e▸ ПКМ, чтобы открыть товары продавца'
 
 CONFIRMED_NAME: 'Подтвердить'
 CONFIRMED_LORE:
