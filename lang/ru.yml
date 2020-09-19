@@ -180,8 +180,8 @@ AUCTION_REMOVED_ITEM: '§eАукцион §8| §rВы успешно сняли 
 AUCTION_NO_ITEMS_NAME: '§cПредметом нет..'
 AUCTION_NO_ITEMS_LORE:
   - ''
-  - '§cНам не удалось найти новые'
-  - '§cпредметы на аукцион'
+  - '§7Нам не удалось найти новые'
+  - '§7предметы на аукцион'
 
 AUCTION_SUB_TYPE_LORE:
   - ''
@@ -189,6 +189,31 @@ AUCTION_SUB_TYPE_LORE:
   - '§7по типу §a%s'
   - ''
   - '§e▸ Нажмите, чтобы выбрать'
+AUCTION_MYGUI_ITEM_NAME: '§aМои товары'
+AUCTION_MYGUI_ITEM_LORE:
+  - ''
+  - '§7Открыть список ваших товаров,'
+  - '§7которые выставленны на торги'
+  - ''
+  - '§e▸ Нажмите, чтобы открыть список'
+AUCTION_CATEGORY_NAME: 'Текущая категория предметов'
+AUCTION_CATEGORY_LORE:
+  - ''
+  - '§7В данный момент выбрана'
+  - '§7категория - §f%s'
+  - ''
+  - '§e▸ Нажмите, чтобы сменить категорию'
+AUCTION_TYPE_ARMOR_NAME: 'Броня'
+AUCTION_TYPE_WEAPON_NAME: 'Оружие'
+AUCTION_TYPE_TOOLS_NAME: 'Инструменты'
+AUCTION_TYPE_FOOD_NAME: 'Еда'
+AUCTION_TYPE_POTION_NAME: 'Зелья'
+AUCTION_TYPE_BLOCKS_NAME: 'Блоки'
+AUCTION_TYPE_ENCHANTING_NAME: 'Зачарования'
+AUCTION_TYPE_RESOURCES_NAME: 'Ресурсы'
+AUCTION_TYPE_FARMING_NAME: 'Растения'
+AUCTION_TYPE_OTHER_NAME: 'Остальное'
+AUCTION_TYPE_ALL_NAME: 'Все'
 
 CONFIRMED_NAME: 'Подтвердить'
 CONFIRMED_LORE:
