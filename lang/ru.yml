@@ -176,8 +176,8 @@ AUCTION_LORE_MYGUI:
   - '§e▸ ПКМ, чтобы снять с торгов'
 AUCTION_NO_AUCTION: '§cСнят с продажи'
 INVENTORY_IS_FULL: '§cОшибка, ващ инвентарь заполнен'
-AUCTION_REMOVED_ITEM: '§eАукцион §8| §rВы успешно сняли предмет §e%s §rс аукциона'
-AUCTION_NO_ITEMS_NAME: '§cПредметом нет..'
+AUCTION_REMOVED_ITEM: '§rВы успешно сняли предмет §e%s §rс аукциона'
+AUCTION_NO_ITEMS_NAME: '§cПредметов нет..'
 AUCTION_NO_ITEMS_LORE:
   - ''
   - '§7Нам не удалось найти новые'
