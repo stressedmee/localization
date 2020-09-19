@@ -161,7 +161,7 @@ WARP_ITEM_LORE:
 - ''
 - '§e▸ Нажмите, чтобы телепортироваться'
 
-AUCTION_MAINGUI_NAME: 'Аукцион'
+AUCTION_MAINGUI_NAME: 'аукцион'
 AUCTION_MYGUI_NAME: 'Ваши предметы'
 AUCTION_PLAYERGUI_NAME: 'Предметы игрока %s'
 AUCTION_TYPEGUI_NAME: 'Выбор категории'
@@ -239,6 +239,7 @@ AUCTION_HELP:
   - ' §7/ah §f- открыть аукцион'
   - ' §7/ah sell <цена> <кол-во> §f- выставить предмет на аукцион'
   - ' §7/ah show <ник игрока> §f- посмотреть активные предметы игрока'
+AUCTION_BUY_YOU_ERROR: '§cОшибка, вы не можете купить свой же предмет'
 
 CONFIRMED_NAME: 'Подтвердить'
 CONFIRMED_LORE:
