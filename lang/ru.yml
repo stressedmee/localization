@@ -289,7 +289,7 @@ AUCTION_MYGUI_ITEM_LORE:
 - '§7которые выставленны на торги'
 - ''
 - '§e▸ Нажмите, чтобы открыть список'
-AUCTION_GUI_ITEM_NAME: '§aОбщий аукцион'
+AUCTION_GUI_ITEM_NAME: '§aОбщие товары'
 AUCTION_GUI_ITEM_LORE:
 - ''
 - '§7Открыть список общих товаров,'
