@@ -161,7 +161,7 @@ WARP_ITEM_LORE:
 - ''
 - '§e▸ Нажмите, чтобы телепортироваться'
 
-AUCTION_MAINGUI_NAME: 'аукцион'
+AUCTION_MAINGUI_NAME: 'Аукцион'
 AUCTION_MYGUI_NAME: 'Ваши предметы'
 AUCTION_PLAYERGUI_NAME: 'Предметы игрока %s'
 AUCTION_TYPEGUI_NAME: 'Выбор категории'
