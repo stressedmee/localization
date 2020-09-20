@@ -282,6 +282,11 @@ HOME_GUI_NAME: 'Точки дома'
 HOME_CREATE: 'Точка дома §e%s §fустановлена'
 DELHOME_FORMAT: '/delhome <название дома>'
 SETHOME_FORMAT: '/sethome <название дома>'
+HOME_ITEM_EMPTY_NAME: '§cТочки дома не найдены..'
+HOME_ITEM_EMPTY_LORE:
+- ''
+- '§7В данный момент у вас нет'
+- '§7точек дома'
 HOME_LORE:
 - ''
 - '§7Координаты дома:'
@@ -291,6 +296,7 @@ HOME_LORE:
 - ' §7Z: §e%s'
 - ''
 - '§e▸ Нажмите, чтобы телепортироваться'
+
 HOMES_1:
 - 'дом'
 - 'а'
