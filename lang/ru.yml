@@ -440,6 +440,8 @@ FRIEND_ACCEPTED_REQUEST: 'Поздравляем! Вы успешно стали
 FRIEND_INVITE_SENT: 'Вы отправили запрос в друзья игроку %s'
 FRIEND_INVITE_TEXT: 'Игрок %s §fотправил Вам запрос в друзья'
 
+GIVEMONEY: '§eЭкономика §8| %s §rначислил на аккаунт %s §8- §r%s §7(§a+%s§7)'
+
 DONATECHAT_FORMAT: '§6Чат донатеров §8| §r%s §8» §7%s'
 STAFFCHAT_FORMAT: '§cЧат персонала §8 §r%s §8» §f%s'
 
