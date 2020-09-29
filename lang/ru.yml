@@ -464,3 +464,8 @@ START_GAME_ARENA: '§fИгра начнется через §e%s §f%s'
 JOIN_GAMER_ARENA: '%s§f зашел в игру (§e%s§f/§e%s§f)'
 QUIT_GAMER_ARENA: '%s§f покинул игру (§c%s§f/§e%s§f)'
 ERROR_START_GAMER_ARENA: '§cОшибка, не хватает игроков для старта'
+
+SPECTATOR_CAMERA_OFF: '§cВы покинули режим наблюдателя'
+SPECTATOR_CAMERA_TITLE: '§eРежим наблюдения'
+SPECTATOR_CAMERA_SUBTITLE: 'Наблюдаем за игроком: %s'
+SPECTATOR_CAMERA_ACTIONBAR: '§fНажмите §eSHIFT §fчтобы покинуть режим наблюдателя'
