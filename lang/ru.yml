@@ -457,6 +457,8 @@ BOARD_LEVEL: 'Уровень'
 BOARD_PLAYERS: 'Игроков'
 BOARD_FOR_START: 'Для старта нужно'
 BOARD_WAIT: 'Ожидание игроков'
+BOARD_MAPS: 'Карта'
+BOARD_SERVER: 'Сервер'
 
 START_GAME_ARENA: '§fИгра начнется через §e%s §f%s'
 JOIN_GAMER_ARENA: '%s§f зашел в игру (§e%s§f/§e%s§f)'
