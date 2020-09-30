@@ -489,6 +489,8 @@ SPECTATOR_MAIN_LORE:
 - '§e▸ ЛКМ, чтобы телепортироваться'
 - '§e▸ ПКМ, чтобы наблюдать от 1-ого лица'
 
+SPECTATOR_MENU_NAME: 'Телепортер'
+
 SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
 SELECTOR_TEAM_PLAYERS: '§7Игроки:'
 SELECTOR_TEAM_NO_PLAYERS: '§7Нет игроков...'
