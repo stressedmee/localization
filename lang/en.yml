@@ -98,7 +98,7 @@ QUIT_GAMER_ARENA: '%s§r left the game (§c%s§f/§e%s§f)'
 ERROR_START_GAMER_ARENA: '§cError, not enough players to start'
 
 CLICK_TO_BUY: '§e▸ Click to buy'
-CLICK_TO_BUY_ERROR: '§cYou don't have enough resources'
+CLICK_TO_BUY_ERROR: '§cYou don`t have enough resources'
 
 GENERATOR_NAME: 'Generator'
 GENERATOR_BREAK: 'Broken'
