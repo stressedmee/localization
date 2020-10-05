@@ -514,9 +514,27 @@ HUB_ITEM_LORE:
 CLICK_TO_OPEN:
 - '§eНажмите, чтобы открыть'
 
+CLICK_TO_BUY: '§e▸ Нажмите, чтобы купить'
+CLICK_TO_BUY_ERROR: '§cУ вас недостаточно ресурсов'
+
+GENERATOR_NAME: 'Генератор'
+GENERATOR_BREAK: 'Сломан'
+GENERATOR_TO_SPAWN: '§rСпавн через §e%s §r%s'
+GENERATOR_SPAWNED: '§rЗаспавнено!'
+
+BW_SHOP_GUI_NAME: 'Магазин'
+BW_SHOP_BLOCKS_GUI_NAME: 'Блоки'
+
+WOOL: 'Шерсть'
+PLANKS: 'Доски'
+
 BW_SHOP_BLOCKS_NAME: '§eБлоки'
 BW_SHOP_BLOCKS_LORE:
 - ''
 - '§8Можно приобрести:'
 - ' §8- §7Шерсть'
+- ''
+BW_SHOP_ITEM_LORE:
+- ''
+- '§7Цена покупки: %s'
 - ''
