@@ -532,8 +532,6 @@ BW_SHOP_BLOCKS_NAME: '§eБлоки'
 BW_SHOP_BLOCKS_LORE:
 - ''
 - '§8Можно приобрести:'
-- ' §8- §7Шерсть'
-- ''
 BW_SHOP_ITEM_LORE:
 - ''
 - '§7Цена покупки: %s'

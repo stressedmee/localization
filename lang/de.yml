@@ -1,17 +1,17 @@
-ERROR_COMMAND: '§cОшибка, используйте - %s'
+ERROR_COMMAND: '§cFehler verwenden - %s'
 
-PING: 'Ваш пинг §a%s §rms'
+PING: 'Dein Ping §a%s §rms'
 
-COOLDOWN: '§cПожалуйста, подождите %s перед следующим использованием'
+COOLDOWN: '§cBitte warten Sie %s vor dem nächsten Gebrauch'
 
-NO_FOUND_PLAYER: '§cОшибка, игрок %s §cне найден'
-NO_NEVER_PLAYED: '§cОшибка, игрок %s никогда прежде не играл на нашем сервере'
-SERVER_NOT_FOUND: '§cОшибка, данный сервер не найден'
-ALREADY_ON_SERVER: '§cОшибка, вы уже находитесь на данном сервере'
-SERVER_TO: 'Вы успешно телепортировались на сервер §e%s'
+NO_FOUND_PLAYER: '§cFehler, Spieler %s nicht gefunden'
+NO_NEVER_PLAYED: '§cFehler, Spieler %s hat noch nie auf unserem Server gespielt'
+SERVER_NOT_FOUND: '§cFehler, dieser Server wurde nicht gefunden'
+ALREADY_ON_SERVER: '§cFehler, Sie befinden sich bereits auf diesem Server'
+SERVER_TO: 'Sie haben erfolgreich zum Server teleportiert §e%s'
 
-NO_PERMS_GROUP: '§cОшибка, для использования данной команды вам необходим статус %s §cили выше'
-SUBCOMMAND_HELP: 'Список команд для §e%s§r:'
+NO_PERMS_GROUP: '§cFehler, Sie benötigen den Status, um diesen Befehl verwenden zu können %s §coder höher'
+SUBCOMMAND_HELP: 'Liste der Befehle für §e%s§r:'
 
 TIME_DAY_1:
 - 'д'
@@ -468,10 +468,10 @@ BOARD_UPGRADE: 'Улучшений'
 BOARD_KILLS: 'Убийств'
 BOARD_BREAK_BEDS: 'Сломано кроватей'
 
-START_GAME_ARENA: '§fИгра начнется через §e%s §f%s'
-JOIN_GAMER_ARENA: '%s§f зашел в игру (§e%s§f/§e%s§f)'
-QUIT_GAMER_ARENA: '%s§f покинул игру (§c%s§f/§e%s§f)'
-ERROR_START_GAMER_ARENA: '§cОшибка, не хватает игроков для старта'
+START_GAME_ARENA: '§fDas Spiel beginnt in §e%s §f%s'
+JOIN_GAMER_ARENA: '%s§f betrat das Spiel (§e%s§f/§e%s§f)'
+QUIT_GAMER_ARENA: '%s§f das Spiel verlassen (§c%s§f/§e%s§f)'
+ERROR_START_GAMER_ARENA: '§cFehler, nicht genug Spieler zum Starten'
 
 SPECTATOR_CAMERA_OFF: '§cВы покинули режим наблюдателя'
 SPECTATOR_CAMERA_TITLE: '§eРежим наблюдения'
@@ -487,51 +487,51 @@ SPECTATOR_SETTINGS_VISION_ON: '§aВключить ночное видение'
 SPECTATOR_SETTINGS_HIDE: '§cСкрыть наблюдателей'
 SPECTATOR_SETTINGS_SHOW: '§aПоказать наблюдателей'
 
-SPECTATOR_TEAM_LORE: '§7Команда: %s'
-SPECTATOR_KILLS_LORE: '§7Убийств: §c%s'
+SPECTATOR_TEAM_LORE: '§7Befehl: %s'
+SPECTATOR_KILLS_LORE: '§7Tötet: §c%s'
 SPECTATOR_MAIN_LORE:
-- '§7Здоровье: §e%s'
-- '§7Голод: §e%s'
+- '§7Gesundheit: §e%s'
+- '§7Hunger: §e%s'
 - ''
-- '§e▸ ЛКМ, чтобы телепортироваться'
-- '§e▸ ПКМ, чтобы наблюдать от 1-ого лица'
+- '§e▸ LMB zu teleportieren'
+- '§e▸ RMB von 1 Person zu beobachten'
 
-SPECTATOR_MENU_NAME: 'Телепортер'
+SPECTATOR_MENU_NAME: 'Teleporter'
 
-SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
-SELECTOR_TEAM_PLAYERS: '§7Игроки:'
-SELECTOR_TEAM_NO_PLAYERS: '§7Нет игроков...'
+SELECTOR_TEAM_NAME_INV: 'Teamauswahl: %s'
+SELECTOR_TEAM_PLAYERS: '§7Spieler:'
+SELECTOR_TEAM_NO_PLAYERS: '§7Keine Spieler...'
 
-TEAM_ITEM_NAME: '§eВыбор команды'
+TEAM_ITEM_NAME: '§eTeamauswahl'
 TEAM_ITEM_LORE:
-- '§7Используйте этот предмет,'
-- '§7чтобы выбрать свою команду'
-HUB_ITEM_NAME: '§eВыход'
+- '§7Verwenden Sie diesen Artikel,'
+- '§7um dein Team zu wählen'
+HUB_ITEM_NAME: '§eAusgang'
 HUB_ITEM_LORE:
-- '§7Используйте этот предмет,'
-- '§7чтобы покинуть арену'
+- '§7Verwenden Sie diesen Artikel,'
+- '§7die Arena verlassen'
 
 CLICK_TO_OPEN:
-- '§eНажмите, чтобы открыть'
+- '§eKlicken Sie zum Öffnen'
 
-CLICK_TO_BUY: '§e▸ Нажмите, чтобы купить'
-CLICK_TO_BUY_ERROR: '§cУ вас недостаточно ресурсов'
+CLICK_TO_BUY: '§e▸ Klicken um zu kaufen'
+CLICK_TO_BUY_ERROR: '§cSie haben nicht genügend Ressourcen'
 
-GENERATOR_NAME: 'Генератор'
-GENERATOR_BREAK: 'Сломан'
-GENERATOR_TO_SPAWN: '§rСпавн через §e%s §r%s'
-GENERATOR_SPAWNED: '§rЗаспавнено!'
+GENERATOR_NAME: 'Generator'
+GENERATOR_BREAK: 'Gebrochen'
+GENERATOR_TO_SPAWN: '§rLaichen durch §e%s §r%s'
+GENERATOR_SPAWNED: '§rSpawned!'
 
-BW_SHOP_GUI_NAME: 'Магазин'
-BW_SHOP_BLOCKS_GUI_NAME: 'Блоки'
+BW_SHOP_GUI_NAME: 'Ergebnis'
+BW_SHOP_BLOCKS_GUI_NAME: 'Blöcke'
 
 WOOL: 'Шерсть'
 PLANKS: 'Доски'
 
-BW_SHOP_BLOCKS_NAME: '§eБлоки'
+BW_SHOP_BLOCKS_NAME: '§eBlöcke'
 BW_SHOP_BLOCKS_LORE:
 - ''
-- '§8Можно приобрести:'
+- '§8Sie können kaufen:'
 - ' §8- §7Шерсть'
 - ''
 BW_SHOP_ITEM_LORE:
