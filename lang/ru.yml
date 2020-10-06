@@ -542,6 +542,9 @@ BW_SHOP_BLOCKS_GUI_NAME: 'Блоки'
 
 WOOL: 'Шерсть'
 PLANKS: 'Доски'
+STAINED_GLASS: 'Стекло'
+STAINED_CLAY: 'Керамика'
+OBSIDIAN: 'Обсидиан'
 
 BW_SHOP_BLOCKS_NAME: '§eБлоки'
 BW_SHOP_BLOCKS_LORE:
