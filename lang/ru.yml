@@ -551,6 +551,12 @@ STAINED_GLASS: 'Стекло'
 STICK: 'Палка'
 STAINED_CLAY: 'Керамика'
 OBSIDIAN: 'Обсидиан'
+SANDSTONE: 'Песчаник'
+ENDER_STONE: 'Камень края'
+WEB: 'Паутина'
+LADDER: 'Лестница'
+CHEST: 'Сундук'
+CHAINMAIL_CHESTPLATE: 'Кольчужный нагрудник'
 
 BW_SHOP_BLOCKS_NAME: '§eБлоки'
 BW_SHOP_BLOCKS_LORE:
