@@ -625,7 +625,6 @@ BW_SHOP_WEAPON_LORE:
 - ' §8▪ §7Железный меч §8x1'
 - ''
 BW_SHOP_BOW_NAME: '§eЛуки'
-BW_SHOP_BOW_LORE: []
 BW_SHOP_ITEM_ENCHANT_LORE:
 - ''
 - '§8Зачары:'
