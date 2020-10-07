@@ -521,6 +521,8 @@ SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
 SELECTOR_TEAM_PLAYERS: '§7Игроки:'
 SELECTOR_TEAM_NO_PLAYERS: '§7Нет игроков...'
 
+PLAYER_LEFT: '§rИгрок %s §rпокинул игру'
+
 TEAM_ITEM_NAME: '§eВыбор команды'
 TEAM_ITEM_LORE:
 - '§7Используйте этот предмет,'
