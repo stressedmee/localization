@@ -136,7 +136,6 @@ SKIN_HAS_BEEN_CHANGED: 'Вы изменили свой скин на §e%s'
 SKIN_HAS_BEEN_CHANGED_URL: 'Вы изменили свой скин с помощью §e%s'
 
 FIND_RESULT: '%s §rнаходится на сервере §a%s'
-SERVER_NOT_FOUND: '§cОшибка, данный сервер не найден'
 
 YOU_HAVE_BEEN_SENT: '%s §fтелепортировал вас на сервер §e%s'
 SENDING_PLAYER_TO_SERVER: '%s §fуспешно телепортирован на сервер §e%s'
@@ -176,7 +175,6 @@ WARP_NOT_YOUR: '§cОшибка, варп %s не предналежит вам'
 WARP_CREATE_NAME_ERROR: '§cОшибка, название варпа не должно превышать 32 символа'
 WARP_CREATE: 'Варп §e%s §rуспешно создан'
 WARP_REMOVED: 'Варп §e%s §rудален'
-PLAYER_WARP_GUI_NAME: 'Список варпов - %s'
 WARP_GUI_NAME: 'Список варпов'
 MYWARP_ITEM_CHANGER_NAME: 'Личные варпы'
 
@@ -542,6 +540,10 @@ GENERATOR_NAME: 'Генератор'
 GENERATOR_BREAK: 'Сломан'
 GENERATOR_TO_SPAWN: '§rСпавн через §e%s §r%s'
 GENERATOR_SPAWNED: '§rЗаспавнено!'
+
+DEATH_MSG_TITLE: '§cВы погибли'
+RESPAWN_TITLE: '§aВы возродились'
+RESPAWN_SUBTITLE: '§7Вы возродитесь через §c%s §7%s'
 
 BW_SHOP_GUI_NAME: 'Магазин'
 BW_SHOP_BLOCKS_GUI_NAME: 'Блоки'
