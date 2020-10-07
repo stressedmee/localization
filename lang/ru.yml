@@ -546,6 +546,7 @@ GENERATOR_SPAWNED: '§rЗаспавнено!'
 BW_SHOP_GUI_NAME: 'Магазин'
 BW_SHOP_BLOCKS_GUI_NAME: 'Блоки'
 BW_SHOP_ARMORS_GUI_NAME: 'Броня'
+BW_SHOP_TOOLS_GUI_NAME: 'Инструменты'
 
 WOOL: 'Шерсть'
 PLANKS: 'Доски'
@@ -565,9 +566,13 @@ LEATHER_LEGGINS: 'Кожаные штаны'
 LEATHER_BOOTS: 'Кожаные ботинки'
 WOOD_PICKAXE: 'Деревянная кирка'
 STONE_PICKAXE: 'Каменная кирка'
+IRON_PICKAXE: 'Железная кирка'
+DIAMOND_PICKAXE: 'Алмазная кирка'
+FISHING_ROD: 'Удочка'
 
 PROTECTION_ENVIRONMENTAL: 'Защита'
 DURABILITY: 'Прочность'
+DIG_SPEED: 'Эффективность'
 
 BW_SHOP_BLOCKS_NAME: '§eБлоки'
 BW_SHOP_BLOCKS_LORE:
@@ -587,6 +592,15 @@ BW_SHOP_ARMORS_LORE:
 - ' §8- §7Кольчужный нагрудник II §8x1'
 - ' §8- §7Кольчужный нагрудник III §8x1'
 - ''
+BW_SHOP_TOOLS_NAME: '§eИнструменты'
+BW_SHOP_TOOLS_LORE:
+- ''
+- '§8Можно приобрести:'
+- ' §8- §7Деревянная кирка §8x1'
+- ' §8- §7Каменная кирка §8x1'
+- ' §8- §7Железная кирка §8x1'
+- ' §8- §7Алмазная кирка §8x1'
+- ' §8- §7Удочка §8x1'
 BW_SHOP_ITEM_ENCHANT_LORE:
 - '§8Зачары:'
 BW_SHOP_ITEM_LORE:
