@@ -577,6 +577,7 @@ FISHING_ROD: 'Удочка'
 WOOD_SWORD: 'Каменный меч'
 GOLD_SWORD: 'Золотой меч'
 IRON_SWORD: 'Железный меч'
+BOW: 'Лук'
 
 PROTECTION_ENVIRONMENTAL: 'Защита'
 DURABILITY: 'Прочность'
