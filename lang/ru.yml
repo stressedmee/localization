@@ -531,6 +531,15 @@ HUB_ITEM_NAME: '§eВыход'
 HUB_ITEM_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы покинуть арену'
+SPECTATOR_MENU_ITEM_NAME: '§eТелепортер'
+SPECTATOR_MENU_ITEM_LORE:
+  - '§7Используйте этот предмет,'
+  - '§7чтобы наблюдать за игроками'
+SPECTATOR_SETTINGS_ITEM_NAME: '§eНастройки наблюдателя'
+SPECTATOR_SETTINGS_ITEM_LORE:
+  - '§7Используйте этот предмет,'
+  - '§7чтобы изменить настройки'
+  - '§7наблюдателя'
 
 CLICK_TO_OPEN:
 - '§eНажмите, чтобы открыть'
