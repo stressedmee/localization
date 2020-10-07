@@ -563,6 +563,8 @@ LEATHER_HELMET: 'Кожаный шлем'
 LEATHER_CHESTPLATE: 'Кожаный нагрудник'
 LEATHER_LEGGINS: 'Кожаные штаны'
 LEATHER_BOOTS: 'Кожаные ботинки'
+WOOD_PICKAXE: 'Деревянная кирка'
+STONE_PICKAXE: 'Каменная кирка'
 
 PROTECTION_ENVIRONMENTAL: 'Защита'
 DURABILITY: 'Прочность'
