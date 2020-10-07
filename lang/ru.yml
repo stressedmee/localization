@@ -559,6 +559,9 @@ LADDER: 'Лестница'
 CHEST: 'Сундук'
 CHAINMAIL_CHESTPLATE: 'Кольчужный нагрудник'
 
+PROTECTION_ENVIRONMENTAL: 'Защита'
+DURABILITY: 'Прочность'
+
 BW_SHOP_BLOCKS_NAME: '§eБлоки'
 BW_SHOP_BLOCKS_LORE:
 - ''
