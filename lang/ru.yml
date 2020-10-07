@@ -571,10 +571,15 @@ STONE_PICKAXE: 'Каменная кирка'
 IRON_PICKAXE: 'Железная кирка'
 DIAMOND_PICKAXE: 'Алмазная кирка'
 FISHING_ROD: 'Удочка'
+WOOD_SWORD: 'Каменный меч'
+GOLD_SWORD: 'Золотой меч'
+IRON_SWORD: 'Железный меч'
 
 PROTECTION_ENVIRONMENTAL: 'Защита'
 DURABILITY: 'Прочность'
 DIG_SPEED: 'Эффективность'
+DAMAGE_ALL: 'Острота'
+KNOCKBACK: 'Отдача'
 
 BW_SHOP_BLOCKS_NAME: '§eБлоки'
 BW_SHOP_BLOCKS_LORE:
