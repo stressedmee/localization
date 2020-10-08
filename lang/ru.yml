@@ -613,6 +613,8 @@ ARROW_KNOCKBACK: 'Откидывание'
 
 BOSS_BAR_LOBBY:
 - '§aОБВАЛ §rЦЕН В ЧЕСТЬ §e§lОТКРЫТИЯ§r! САЙТ - §e§lLITEDAYS.RU'
+- '§etest 1'
+- '§atest 2'
 
 BW_SHOP_BLOCKS_NAME: '§eБлоки'
 BW_SHOP_BLOCKS_LORE:
