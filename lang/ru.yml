@@ -561,6 +561,7 @@ BW_SHOP_BLOCKS_GUI_NAME: 'Блоки'
 BW_SHOP_ARMORS_GUI_NAME: 'Броня'
 BW_SHOP_TOOLS_GUI_NAME: 'Инструменты'
 BW_SHOP_WEAPON_GUI_NAME: 'Оружие'
+BW_SHOP_BOW_GUI_NAME: 'Луки'
 
 WOOL: 'Шерсть'
 PLANKS: 'Доски'
