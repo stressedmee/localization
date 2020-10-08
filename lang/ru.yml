@@ -401,8 +401,6 @@ PAGE_ARROW_LORE:
 - '§7Нажмите для перехода'
 - '§7на %s страницу'
 
-PROFILE_MAIN_GUI_NAME: 'Профиль'
-
 ITEMS_LOBBY_SELECTOR_NAME: '§eИгровые режими'
 ITEMS_LOBBY_SELECTOR_LORE:
   - '§7Используйте этот предмет, чтобы'
@@ -590,6 +588,13 @@ PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Настройки'
 
 CLICK_TO_OPEN:
 - '§eНажмите, чтобы открыть'
+ITEMS_LOBBY_ENABLE_LORE:
+- '§7Нажмите, чтобы отключить'
+ITEMS_LOBBY_DISABLE_LORE:
+- '§7Нажмите, чтобы включить'
+
+ENABLE: 'Включено'
+DISABLE: 'Отключено'
 
 CLICK_TO_BUY: '§e▸ Нажмите, чтобы купить'
 CLICK_TO_BUY_ERROR: '§cУ вас недостаточно ресурсов'
@@ -644,11 +649,6 @@ DAMAGE_ALL: 'Острота'
 KNOCKBACK: 'Отдача'
 ARROW_DAMAGE: 'Сила'
 ARROW_KNOCKBACK: 'Откидывание'
-
-BOSS_BAR_LOBBY:
-- '§aОБВАЛ §rЦЕН В ЧЕСТЬ §e§lОТКРЫТИЯ§r! САЙТ - §e§lLITEDAYS.RU'
-- '§etest 1'
-- '§atest 2'
 
 BW_SHOP_BLOCKS_NAME: '§eБлоки'
 BW_SHOP_BLOCKS_LORE:
