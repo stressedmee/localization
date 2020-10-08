@@ -401,6 +401,19 @@ PAGE_ARROW_LORE:
 - '§7Нажмите для перехода'
 - '§7на %s страницу'
 
+ITEMS_LOBBY_SELECTOR_NAME: '§eИгровые режими'
+ITEMS_LOBBY_SELECTOR_LORE:
+  - '§7Используйте этот предмет, чтобы'
+  - '§7передвигаться между серверами'
+ITEMS_LOBBY_GADGETS_NAME: '§eГаджеты'
+ITEMS_LOBBY_GADGETS_LORE:
+  - '§7Различная косметика для'
+  - '§7развлечения в лобби'
+ITEMS_LOBBY_PROFILE_NAME: '§eПрофиль игрока'
+ITEMS_LOBBY_PROFILE_LORE:
+  - '§7Полезная информация'
+  - '§7о вашем аккаунте'
+
 MYWARP_ITEM_CHANGER_LORE:
 - ''
 - '§7Показать список личных варпов'
