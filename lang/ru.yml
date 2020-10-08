@@ -584,6 +584,8 @@ LOBBY_SETTINGS_UNAVAILABLE:
 - ''
 - '§7Доступно от %s §7и выше'
 
+PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Настройки'
+
 CLICK_TO_OPEN:
 - '§eНажмите, чтобы открыть'
 
