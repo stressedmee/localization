@@ -401,6 +401,8 @@ PAGE_ARROW_LORE:
 - '§7Нажмите для перехода'
 - '§7на %s страницу'
 
+PROFILE_MAIN_GUI_NAME: 'Профиль'
+
 ITEMS_LOBBY_SELECTOR_NAME: '§eИгровые режими'
 ITEMS_LOBBY_SELECTOR_LORE:
   - '§7Используйте этот предмет, чтобы'
