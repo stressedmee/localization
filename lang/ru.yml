@@ -554,6 +554,36 @@ SPECTATOR_SETTINGS_ITEM_LORE:
   - '§7чтобы изменить настройки'
   - '§7наблюдателя'
 
+LOBBY_SETTINGS_FLY_NAME: 'Полет'
+LOBBY_SETTINGS_FLY_LORE:
+- '§7Позволяет включить или выключить'
+- '§7полет в главном лобби и в лобби'
+- '§7ожидания старта игры'
+LOBBY_SETTINGS_HIDER_NAME: 'Скрытие игроков'
+LOBBY_SETTINGS_HIDER_LORE:
+- '§7Позволяет включить или выключить'
+- '§7скрытие игроков в лобби'
+LOBBY_SETTINGS_CHAT_NAME: 'Чат'
+LOBBY_SETTINGS_CHAT_LORE:
+- '§7Позволяет включить или выключить'
+- '§7возможность писать или читать чат'
+LOBBY_SETTINGS_BOARD_NAME: 'Скорборд'
+LOBBY_SETTINGS_BOARD_LORE:
+- '§7Позволяет включить или выключить'
+- '§7отображение скорбордов справа'
+- '§7во всех лобби'
+LOBBY_SETTINGS_PRIVATE_MESSAGE_NAME: 'Личные сообщения'
+LOBBY_SETTINGS_PRIVATE_MESSAGE_LORE:
+- '§7Позволяет включить или выключить'
+- '§7личные сообщения'
+LOBBY_SETTINGS_DONATE_CHAT_NAME: 'Чат донатеров'
+LOBBY_SETTINGS_DONATE_CHAT_LORE:
+- '§7Позволяет включить или выключить'
+- '§7чат донатеров'
+LOBBY_SETTINGS_UNAVAILABLE:
+- ''
+- '§7Доступно от %s §7и выше'
+
 CLICK_TO_OPEN:
 - '§eНажмите, чтобы открыть'
 
