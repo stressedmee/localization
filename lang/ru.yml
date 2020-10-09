@@ -607,6 +607,7 @@ BOX_WINNER: '§fВы выиграли %s§r предмет %s'
 BOX_WINNER_OTHER: '%s §rвыиграл %s§r предмет %s'
 BOX_MONEY: '§aМонеты §f(§6+%s§f)'
 BOX_GOLD: '§eЗолото §f(§e+%s§f)'
+BOX_WORK: 'Подождите.. Сундук уже открыт кем-то'
 
 GROUP: 'Статус'
 GROUP_ALREADY_HAVE: '§rУ вас уже есть данная группа, поэтому вы получили §e%s %s'
