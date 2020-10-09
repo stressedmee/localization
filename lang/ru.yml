@@ -664,6 +664,8 @@ MONEY_KEY_LORE:
 BOX_GUI_NAME: 'Открытие кейсов'
 BOX_OPEN_YOU: '§rВы начали открывать кейс..'
 
+BOX_BUY_MONEY: '§eПокупка за монеты'
+BOX_BUY_GOLD: '§eПокупка за золото'
 BOX_SHOP_GUI_NAME: 'Покупка ключей'
 BOX_BUY_LORE:
 - '§7Купить %s %s за %s %s'
