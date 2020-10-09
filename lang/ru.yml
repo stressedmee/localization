@@ -596,6 +596,15 @@ ITEMS_LOBBY_DISABLE_LORE:
 ENABLE: 'Включено'
 DISABLE: 'Отключено'
 
+KEY_BOX: '%sУ вас %s %s'
+BOX_NAME: 'Мистический сундук'
+BOX_SUB_NAME: '§7Нажмите, чтобы открыть'
+BOX_NO_KEY: '§cУ вас нет ключей'
+BOX_WINNER: '§fВы выиграли %s§r предмет %s'
+BOX_WINNER_OTHER: '%s §rвыиграл %s§r предмет %s'
+BOX_MONEY: '§aМонеты §f(§6+%s§f)'
+BOX_GOLD: '§eЗолото §f(§e+%s§f)'
+
 CLICK_TO_BUY: '§e▸ Нажмите, чтобы купить'
 CLICK_TO_BUY_ERROR: '§cУ вас недостаточно ресурсов'
 
