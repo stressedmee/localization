@@ -608,7 +608,7 @@ PROFILE_MAIN_ITEM_LEVEL_LORE:
 - '§e▸ Открыть меню наград'
 
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
-LEVEL_REWARD_LORE:
+LEVEL_REWARD_LORE1:
   - '§7Награды за достижение §f%s §7уровня:'
 
 LEVEL_REWARD_LORE2:
