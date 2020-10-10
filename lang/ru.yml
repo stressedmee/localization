@@ -79,6 +79,14 @@ EMERALD_1:
 - 'а'
 - 'ов'
 
+BEDWARS_LOBBY_HOLO:
+- '%sBedWars'
+- '§rОнлайн сервера §a%s §r%s'
+- '%s'
+
+CLICK_TO_CONNECT: '§7Нажмите, чтобы присоединиться'
+ON_DEVELOPMENT: '§c✕ В разработке!'
+
 ALL_CANT_CONTACT_HIM: '§cОшибка, игрок %s §cотключил личные сообщения'
 YOU_CANT_CONTACT_HIM: '§cОшибка, игрок %s §cигнорирует вас'
 CANT_MESSAGE_YOURSELF: '§cВы не можете написать самому себе'
