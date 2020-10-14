@@ -730,8 +730,8 @@ RARITY: 'Редкость'
 
 GADGETS_MAIN_GUI_NAME: 'Косметика'
 GADGETS_NOT_ACTIVATED: '§cНе выбрано'
-GADGETS_GUI_HATS_NAME: 'Шляпы'
-GADGETS_GUI_HATS_LORE:
+GADGETS_GUI_HAT_NAME: 'Шляпы'
+GADGETS_GUI_HAT_LORE:
 - ''
 - '§7Тут вы можете лучшие шляпы'
 - '§7из гардероба Ластика! Нет, нет,'
