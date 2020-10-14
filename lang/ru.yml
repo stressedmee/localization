@@ -747,6 +747,8 @@ GADGETS_GUI_HATS_LORE:
 GADGETS_CAN_AVAILABLE: 'Можно получить:'
 GADGETS_GIVE_GOLD: '§7Цена: §6%s золота'
 GADGETS_GIVE_BOX: '§7Выпадает из §bМистического сундука §7(%s§7)'
+GADGETS_MAIN_GUI_NAME: 'Косметика'
+GADGETS_GUI_HATS_NAME: 'Шляпы'
 
 GADGETS_ITEM_0_NAME: 'Лаки блок'
 GADGETS_ITEM_0_LORE: 
