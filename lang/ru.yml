@@ -84,6 +84,11 @@ BEDWARS_LOBBY_HOLO:
 - '§rНа режиме играет §a%s §r%s'
 - '%s'
 
+BEDWARS_SOLO_LOBBY_HOLO:
+- '%sBedWars Solo'
+- '§rНа режиме играет §a%s §r%s'
+- '%s'
+
 CLICK_TO_CONNECT: '§7Нажмите, чтобы присоединиться'
 ON_DEVELOPMENT: '§c✕ В разработке!'
 
