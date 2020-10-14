@@ -78,6 +78,11 @@ EMERALD_1:
 - ''
 - 'а'
 - 'ов'
+PLAYERS_1:
+- 'игрок'
+- ''
+- 'а'
+- 'ов'
 
 BEDWARS_LOBBY_HOLO:
 - '%sBedWars'
