@@ -785,7 +785,7 @@ GADGETS_GIVE_BOX: '§7Выпадает из §bМистического сунд
 GADGETS_GUI_HATS_NAME: 'Шляпы'
 
 GADGETS_DELETED_GUI_NAME: 'Отключение гаджетов'
-GADGET_DELETED_GUI_LORE:
+GADGETS_DELETED_GUI_LORE:
 - ''
 - '§7Список активной косметики:'
 
