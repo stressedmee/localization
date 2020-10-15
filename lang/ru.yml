@@ -787,7 +787,7 @@ GADGETS_GUI_HATS_NAME: 'Шляпы'
 GADGETS_DELETED_GUI_NAME: 'Отключение гаджетов'
 GADGETS_DELETED_GUI_LORE:
 - ''
-- '§7Список активной косметики:'
+- '§7Список активных гаджетов:'
 
 GADGETS_ITEM_0_NAME: 'Лаки блок'
 GADGETS_ITEM_0_LORE: 
