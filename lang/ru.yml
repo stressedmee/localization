@@ -781,6 +781,7 @@ GADGETS_GUI_SPIRITS_LORE:
 
 GADGETS_CAN_AVAILABLE: 'Можно получить:'
 GADGETS_GIVE_GOLD: '§7Цена: §6%s золота'
+GADGETS_GIVE_MONEY: '§7Цена: §e%s монет'
 GADGETS_GIVE_BOX: '§7Выпадает из §bМистического сундука §7(%s§7)'
 GADGETS_GUI_HATS_NAME: 'Шляпы'
 
