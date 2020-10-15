@@ -796,7 +796,7 @@ GADGETS_ITEM_0_LORE:
 
 GADGETS_ITEM_11_NAME: 'Мунов'
 GADGETS_ITEM_11_LORE:
-- '§7Я адекватный человек'
+- '§7Иван Мунов: Я алигарх тваей самки'
 
 BOX_GUI_LORE:
   - '§7Доступных ключей: §e%s'
