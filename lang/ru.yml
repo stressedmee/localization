@@ -794,8 +794,8 @@ GADGETS_ITEM_0_NAME: 'Лаки блок'
 GADGETS_ITEM_0_LORE: 
 - '§7Хм.. Что же с меня выпадет?'
 
-GADGETS_ITEM_1_NAME: 'Мунов'
-GADGETS_ITEM_1_LORE:
+GADGETS_ITEM_11_NAME: 'Мунов'
+GADGETS_ITEM_11_LORE:
 - '§7Я адекватный человек'
 
 BOX_GUI_LORE:
