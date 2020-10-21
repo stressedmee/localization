@@ -629,7 +629,7 @@ PROFILE_MAIN_ITEM_SUFFIX_LORE:
   - ''
   - '§7%s'
   - ''
-  - '§8Всего у вас имеется §f%s §7%s'
+  - '§7Всего у вас имеется §f%s §7%s'
 
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVEL_REWARD_LORE:
