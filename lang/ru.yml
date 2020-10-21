@@ -657,6 +657,8 @@ SUFFIX_BUY: 'Вы успешно приобрели суффикс %s §rза §
 SUFFIX_LORE_SELECT: '§aСуффикс выбран'
 SUFFIX_LORE_NOT_SELECT: '§e▸ Нажмите, чтобы выбрать'
 
+
+
 CLICK_TO_OPEN:
 - '§eНажмите, чтобы открыть'
 ITEMS_LOBBY_ENABLE_LORE:
@@ -837,7 +839,8 @@ HOLO_SHOP_NPC:
   - '§rНажмите, чтобы открыть'
 
 CLICK_TO_BUY: '§e▸ Нажмите, чтобы купить'
-CLICK_TO_BUY_ERROR: '§cУ вас недостаточно ресурсов'
+CLICK_TO_BUY_ERROR: '§cУ вас недостаточно средств'
+CLICK_TO_BUY_ERROR2: '§8Вам не хватает %s %s'
 
 GENERATOR_NAME: 'Генератор'
 GENERATOR_BREAK: 'Сломан'
