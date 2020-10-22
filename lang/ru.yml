@@ -424,7 +424,7 @@ PAGE_ARROW_LORE:
 - '§7Нажмите для перехода'
 - '§7на %s страницу'
 
-ITEMS_LOBBY_SELECTOR_NAME: '§eИгровые режими'
+ITEMS_LOBBY_SELECTOR_NAME: '§eИгровые режимы'
 ITEMS_LOBBY_SELECTOR_LORE:
   - '§7Используйте этот предмет, чтобы'
   - '§7передвигаться между серверами'
