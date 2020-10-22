@@ -638,6 +638,14 @@ PROFILE_MAIN_ITEM_SUFFIX_LORE:
   - '§7Открыто: §r%s/%s §8(%s)'
   - ''
   - '§e▸ Нажмите, чтобы открыть меню'
+PROFILE_MAIN_ITEM_PREFIX_NAME: 'Смена префикса'
+PROFILE_MAIN_ITEM_PREFIX_LORE:
+  - '§7С помощью данной функции, вы'
+  - '§7можете сменить цвет вашего префикса'
+  - ''
+  - '§7Доступно от §3§lDROPPER'
+  - ''
+  - '§e▸ Нажмите, чтобы открыть меню'
 
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVEL_REWARD_LORE:
