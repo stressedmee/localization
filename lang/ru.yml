@@ -656,6 +656,14 @@ PREFIX_ITEM_LORE_SELECTED:
   - ''
   - '§aПрефикс выбран'
 
+
+RED: 'Красный'
+DARK_PURPLE: 'Фиолетовый'
+LIGHT_PURPLE: 'Розовый'
+YELLOW: 'Желтый'
+GREEN: 'Лаймовый'
+DARK_AQUA: 'Бирюзовый'
+
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVEL_REWARD_LORE:
   - '§7Награды за достижение §f%s §7уровня:'
