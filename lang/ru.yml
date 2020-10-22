@@ -647,6 +647,15 @@ PROFILE_MAIN_ITEM_PREFIX_LORE:
   - ''
   - '§e▸ Нажмите, чтобы открыть меню'
 
+PREFIX_ITEM_LORE:
+  - '§7Сменить цвет префикса на %s'
+  - ''
+  - '§e▸ Нажмите, чтобы сменить префикс'
+
+PREFIX_ITEM_LORE_SELECTED:
+  - ''
+  - '§aПрефикс выбран'
+
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVEL_REWARD_LORE:
   - '§7Награды за достижение §f%s §7уровня:'
