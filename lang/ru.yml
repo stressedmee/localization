@@ -494,6 +494,12 @@ FRIEND_ACCEPTED_REQUEST: 'Поздравляем! Вы успешно стали
 FRIEND_INVITE_SENT: 'Вы отправили запрос в друзья игроку %s'
 FRIEND_INVITE_TEXT: 'Игрок %s §fотправил Вам запрос в друзья'
 
+FRIEND_GUI_MAIN_NAME: '§aОбщая информация'
+FRIEND_GUI_MAIN_LORE:
+- ''
+- '§7Онлайн друзей: §a%s'
+- '§7Всего друзей: §a' 
+
 GIVEMONEY: '§eМодерация §8| %s §rначислил на аккаунт %s §7- %s §r%s'
 
 DONATECHAT_FORMAT: '§6Чат донатеров §8| §r%s §8» §7%s'
