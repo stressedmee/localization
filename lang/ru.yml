@@ -127,7 +127,7 @@ ADVENTURE: 'Приключенческий'
 SPECTATOR: 'Наблюдатель'
 
 YOU_CANT_BAN_YOURSELF: 'Ошибка, вы не можете заблокировать самого себя'
-ALREADY_BANNED: '§cОшибка, игрок %s §cуже заблокирован'
+ALREADY_BANNED: 'Ошибка, игрок %s §rуже заблокирован'
 BROADCAST_BAN: '%s §rзаблокировал %s §rна §e%s §rпо причине §e%s'
 BROADCAST_UNBAN: '%s §rразблокировал игрока %s'
 NOT_BANNED: '§cОшибка, игрок %s §cне заблокирован'
