@@ -591,10 +591,18 @@ LOBBY_SETTINGS_FLY_LORE:
 - '§7Позволяет включить или выключить'
 - '§7полет в главном лобби и в лобби'
 - '§7ожидания старта игры'
+LOBBY_SETTINGS_STAFF_CHAT_NAME: 'Чат пероснала'
+LOBBY_SETTINGS_STAFF_CHAT_LORE:
+- '§7Позволяет включить или выключить'
+- '§7чат персонала'
 LOBBY_SETTINGS_HIDER_NAME: 'Скрытие игроков'
 LOBBY_SETTINGS_HIDER_LORE:
 - '§7Позволяет включить или выключить'
 - '§7скрытие игроков в лобби'
+LOBBY_SETTINGS_BLOOD_NAME: 'Кровь'
+LOBBY_SETTINGS_BLOOD_LORE:
+- '§7Позволяет включить или выключить'
+- '§7кровь во время игры'
 LOBBY_SETTINGS_CHAT_NAME: 'Чат'
 LOBBY_SETTINGS_CHAT_LORE:
 - '§7Позволяет включить или выключить'
