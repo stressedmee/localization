@@ -132,7 +132,8 @@ ALREADY_MUTED: 'Ошибка, у игрока %s §rуже заблокиров�
 BROADCAST_BAN: '%s §rзаблокировал %s §rна §e%s §rпо причине §e%s'
 BROADCAST_UNBAN: '%s §rразблокировал игрока %s'
 BROADCAST_UNMUTE: '%s §rразблокировал чат игрока %s'
-NOT_BANNED: '§cОшибка, игрок %s §cне заблокирован'
+NOT_BANNED: '§rОшибка, игрок %s §rне заблокирован'
+NOT_MUTED: '§rОшибка, чат игрока %s §rне заблокирован'
 ETERNITY: 'вечность'
 
 HIDER_ENABLE_NAME: '§aПоказать игроков'
