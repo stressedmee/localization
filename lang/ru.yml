@@ -714,13 +714,17 @@ SUFFIX_ITEM_LORE:
   - ''
   - '§7Пример:'
   - ' %s'
-
+  
+JOIN_PLAYER_LO_LOBBY: '§aaaaa'
+JOIN_MESSAGE_LORE_SELECT: '§aСообщение выбрано'
+JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Нажмите, чтобы выбрать'
+JOIN_MESSAGE_MENU_NAME: 'Сообщения при входе'
 JOIN_MESSAGE_ITEM_NAME: 'Сообщение %s'
 JOIN_MESSAGE_ITEM_LORE:
   - '§7Установить уникальное сообщение,'
   - '§7которое будет видно всем игрокам!'
   - ''
-  - '§7Пример:'
+  - '§7Пример сообщения:'
   - ' %s'
 
 SUFFIX_ENABLE: 'Суффикс %s §rактивирован'
@@ -939,7 +943,7 @@ HOLO_SHOP_NPC:
 
 CLICK_TO_BUY: '§e▸ Нажмите, чтобы купить'
 CLICK_TO_BUY_ERROR: '§cУ вас недостаточно средств'
-CLICK_TO_BUY_ERROR2: '§8Вам не хватает %s %s'
+CLICK_TO_BUY_ERROR2: '§cВам не хватает %s %s'
 
 GENERATOR_NAME: 'Генератор'
 GENERATOR_BREAK: 'Сломан'
