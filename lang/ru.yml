@@ -685,7 +685,7 @@ PROFILE_MAIN_ITEM_STATS_LORE:
   - '§c▸ В разработке..'
 FRIENDS_LIST: 'Список друзей'
 PROFILE_MAIN_ITEM_FLIST_NAME: 'Список друзей'
-PROFILE_MAIN_ITEM_STATS_LORE:
+PROFILE_MAIN_ITEM_FLIST_LORE:
   - '§7С помощью данной функции, вы'
   - '§7можете увидеть список ваших'
   - '§7друзей!'
