@@ -668,6 +668,21 @@ PROFILE_MAIN_ITEM_BOOSTERS_LORE:
   - '§7Активный бустер: §cОтсутсвует'
   - ''
   - '§e▸ Нажмите, чтобы открыть меню'
+PROFILE_MAIN_ITEM_STATS_NAME: 'Статистика'
+PROFILE_MAIN_ITEM_STATS_LORE:
+  - '§7С помощью данной функции, вы'
+  - '§7можете увидеть вашу статистику'
+  - '§7на режимах'
+  - ''
+  - '§c▸ В разработке..'
+FRIENDS_LIST: 'Список друзей'
+PROFILE_MAIN_ITEM_FLIST_NAME: 'Список друзей'
+PROFILE_MAIN_ITEM_STATS_LORE:
+  - '§7С помощью данной функции, вы'
+  - '§7можете увидеть список ваших'
+  - '§7друзей!'
+  - ''
+  - '§e▸ Нажмите, чтобы открыть меню'
 PROFILE_MAIN_ITEM_LANG_NAME: 'Смена языка'
 PROFILE_MAIN_ITEM_LANG_LORE:
   - '§7С помощью данной функции, вы'
@@ -715,7 +730,7 @@ SUFFIX_ITEM_LORE:
   - '§7Пример:'
   - ' %s'
   
-JOIN_PLAYER_LO_LOBBY: '§aaaaa'
+JOIN_PLAYER_TO_LOBBY: '§aaaaa'
 JOIN_MESSAGE_LORE_SELECT: '§aСообщение выбрано'
 JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Нажмите, чтобы выбрать'
 JOIN_MESSAGE_MENU_NAME: 'Сообщения при входе'
