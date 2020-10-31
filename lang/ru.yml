@@ -675,7 +675,7 @@ PROFILE_MAIN_ITEM_BOOSTERS_LORE:
   - ''
   - '§7Активный бустер: §cОтсутсвует'
   - ''
-  - '§e▸ Нажмите, чтобы открыть меню'
+  - '§c▸ В разработке..'
 PROFILE_MAIN_ITEM_STATS_NAME: 'Статистика'
 PROFILE_MAIN_ITEM_STATS_LORE:
   - '§7С помощью данной функции, вы'
@@ -698,7 +698,7 @@ PROFILE_MAIN_ITEM_LANG_LORE:
   - ''
   - '§7Текущий язык: §aРусский §7(100%)'
   - ''
-  - '§e▸ Нажмите, чтобы открыть меню'
+  - '§c▸ В разработке..'
 PROFILE_MAIN_ITEM_SOON_NAME: '???'
 PROFILE_MAIN_ITEM_SOON_LORE:
   - ''
