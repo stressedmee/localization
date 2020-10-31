@@ -699,6 +699,10 @@ PROFILE_MAIN_ITEM_LANG_LORE:
   - '§7Текущий язык: §aРусский §7(100%)'
   - ''
   - '§e▸ Нажмите, чтобы открыть меню'
+PROFILE_MAIN_ITEM_SOON_NAME: '???'
+PROFILE_MAIN_ITEM_SOON_LORE:
+  - ''
+
 
 PREFIX_ITEM_LORE:
   - '§7Сменить цвет префикса на %s'
