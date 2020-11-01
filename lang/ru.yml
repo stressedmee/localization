@@ -165,7 +165,10 @@ SKIN_UPDATE: 'Вы успешно обновили свой скин'
 SKIN_HAS_BEEN_CHANGED: 'Вы изменили свой скин на §e%s'
 SKIN_HAS_BEEN_CHANGED_URL: 'Вы изменили свой скин с помощью §e%s'
 
-FIND_RESULT: '%s §rнаходится на сервере §a%s'
+FIND_RESULT: 
+- '§fМы нашли для вас %s'
+- '§fданный игрок §rнаходится на сервере'
+- '§a%s' 
 
 YOU_HAVE_BEEN_SENT: '%s §fтелепортировал вас на сервер §e%s'
 SENDING_PLAYER_TO_SERVER: '%s §fуспешно телепортирован на сервер §e%s'
