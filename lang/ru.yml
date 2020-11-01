@@ -747,6 +747,7 @@ SUFFIX_ITEM_LORE:
   - ' %s'
   
 JOIN_PLAYER_TO_LOBBY: '%s§e §eзашёл на сервер!'
+JOIN_PLAYER_LO_LOBBY: '%s§e §eзашёл на сервер!'
 JOIN_MESSAGE_LORE_SELECT: '§aСообщение выбрано'
 JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Нажмите, чтобы выбрать'
 JOIN_MESSAGE_MENU_NAME: 'Сообщения при входе'
