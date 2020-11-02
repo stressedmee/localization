@@ -707,7 +707,7 @@ PROFILE_MAIN_ITEM_SOON_NAME: '???'
 PROFILE_MAIN_ITEM_SOON_LORE:
   - ''
 
-GAMEREWARD_LIST: 'Награды за победу
+GAMEREWARD_LIST: 'Награды за победу'
 GAMEREWARD_BOOSTERS_NAME: 'Бустеры для донатеров'
 GAMEREWARD_BOOSTERS_LORE:
   - '§7Донатеры имеют свои бустеры,'
