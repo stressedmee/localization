@@ -775,9 +775,9 @@ SUFFIX_ITEM_LORE:
   - '§7Пример:'
   - ' %s'
   
-JOIN_PLAYER_TO_LOBBY: '%s§e §eзашёл на сервер!'
-JOIN_PLAYER_LO_LOBBY: '%s§e §eзашёл на сервер!'
-JOIN_MESSAGE_LORE_SELECT: '§aСообщение выбрано'
+JOIN_PLAYER_TO_LOBBY: '§e☇ %s §eзашёл на сервер!'
+JOIN_PLAYER_LO_LOBBY: '§e☇ %s §eзашёл на сервер!'
+JOIN_MESSAGE_LORE_SELECT: '§a▸ Сообщение выбрано'
 JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Нажмите, чтобы выбрать'
 JOIN_MESSAGE_MENU_NAME: 'Сообщения при входе'
 JOIN_MESSAGE_ITEM_NAME: 'Сообщение %s'
@@ -789,9 +789,9 @@ JOIN_MESSAGE_ITEM_LORE:
   - ' %s'
 
 SUFFIX_ENABLE: 'Суффикс %s §rактивирован'
-SUFFIX_BUY: 'Вы успешно приобрели суффикс %s §rза §e%s §r%s'
+SUFFIX_BUY: 'Вы §aуспешно §rприобрели суффикс %s §rза §e%s §r%s'
 
-SUFFIX_LORE_SELECT: '§aСуффикс выбран'
+SUFFIX_LORE_SELECT: '§a▸ Суффикс выбран'
 SUFFIX_LORE_NOT_SELECT: '§e▸ Нажмите, чтобы выбрать'
 
 PROFILE_SUFFIX_CATEGORY_GUI_NAME: 'Выбор категории'
