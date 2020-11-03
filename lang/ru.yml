@@ -703,6 +703,12 @@ PROFILE_MAIN_ITEM_LANG_LORE:
   - '§7Текущий язык: §aРусский §7(100%)'
   - ''
   - '§c▸ В разработке..'
+PROFILE_MAIN_ITEM_INFO_NAME: 'Информация'
+PROFILE_MAIN_ITEM_INFO_LORE:
+  - '§7Полезная информация для'
+  - '§7игры на нашем сервере'
+  - ''
+  - '§e▸ Нажмите, чтобы открыть меню'
 PROFILE_MAIN_ITEM_SOON_NAME: '???'
 PROFILE_MAIN_ITEM_SOON_LORE:
   - ''
