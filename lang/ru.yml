@@ -679,7 +679,7 @@ PROFILE_MAIN_ITEM_PREFIX_LORE:
 PROFILE_MAIN_ITEM_BOOSTERS_NAME: 'Бустеры'
 PROFILE_MAIN_ITEM_BOOSTERS_LORE:
   - '§7С помощью данной функции, вы'
-  - '§7можете удвоить вашу валюту/'
+  - '§7можете удвоить вашу валюту,'
   - '§7опыт и другое'
   - ''
   - '§7Активный бустер: §cОтсутсвует'
