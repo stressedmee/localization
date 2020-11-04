@@ -437,13 +437,13 @@ ITEMS_LOBBY_SELECTOR_LORE:
   - '§7передвигаться между серверами'
 ITEMS_LOBBY_GADGETS_NAME: '§eГаджеты'
 ITEMS_LOBBY_GADGETS_LORE:
+  - '§7Уникальная косметика для'
+  - '§7развлечения в лобби'
+ITEMS_LOBBY_DONATE_NAME: '§eПривилегии'
+ITEMS_LOBBY_DONATE_LORE:
   - '§7С помощью данного предмета,'
   - '§7вы сможете узнать возможности,'
   - '§7игровых привилегий'
-ITEMS_LOBBY_DONATE_NAME: '§eПривилегии'
-ITEMS_LOBBY_DONATE_LORE:
-  - '§7'
-  - '§7развлечения в лобби'
 ITEMS_LOBBY_PROFILE_NAME: '§eПрофиль игрока'
 ITEMS_LOBBY_PROFILE_LORE:
   - '§7Полезная информация'
