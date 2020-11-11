@@ -857,7 +857,7 @@ PREFIX_ITEM_LORE_SELECTED:
 PREFIX_HAS_BEEN_CHANGED: '§fПрефикс §aуспешно §fизменён!'
 
 RED: 'Красный'
-DARK_: 'Фиолетовый'
+DARK_PURPLE: 'Фиолетовый'
 LIGHT_PURPLE: 'Розовый'
 YELLOW: 'Желтый'
 GREEN: 'Лаймовый'
