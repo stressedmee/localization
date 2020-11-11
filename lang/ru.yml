@@ -748,6 +748,13 @@ GAMEREWARD_SKYWARS_LORE:
   - '§8 ▸ §7Победа - §e15 монет§7, §350 XP§7, §c+30 рейтинга'
   - '§8 ▸ §7Убийство - §e10 монет§7, §330 XP'
     
+PROFILE_MAIN_ITEM_DONATEMENU_NAME: 'Меню донатера'
+PROFILE_MAIN_ITEM_DONATEMENU_LORE:
+  - '§7Дополнительные возможности'
+  - '§7для донатеров'
+  - ''
+  - '§e▸ Нажмите, чтобы открыть меню'
+    
 HELPPAGE_PAGE: 'Информация'
 HELPPAGE_SELECTOR_NAME: 'Навигация'
 HELPPAGE_SELECTOR_LORE:
