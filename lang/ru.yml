@@ -853,14 +853,18 @@ PREFIX_ITEM_LORE_SELECTED:
   - ''
   - '§aПрефикс выбран'
 
-PREFIX_HAS_BEEN_CHANGED: '§fПрефикс §aуспешно §fсменен!'
+PREFIX_HAS_BEEN_CHANGED: '§fПрефикс §aуспешно §fизменён!'
 
 RED: 'Красный'
-DARK_PURPLE: 'Фиолетовый'
+DARK_: 'Фиолетовый'
 LIGHT_PURPLE: 'Розовый'
 YELLOW: 'Желтый'
 GREEN: 'Лаймовый'
 DARK_AQUA: 'Бирюзовый'
+WHITE: 'Белый'
+GOLD: 'Оранджевый'
+DARK_GREEN: 'Зеленый'
+BLUE: 'Синий'
 
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVEL_REWARD_LORE:
