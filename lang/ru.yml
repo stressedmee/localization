@@ -777,8 +777,8 @@ GAMEMENU_STICKDUELS_LORE:
   - ' §fПохоже на идеальный состав юного билдера.'
   - ''
   - '§c▸ Данный режим находится в разработке..'
-GAMEREWARD_SMASHER_NAME: 'Smasher'
-GAMEREWARD_SMASHER_LORE:
+GAMEMENU_SMASHER_NAME: 'Smasher'
+GAMEMENU_SMASHER_LORE:
   - ''
   - '§7Описание:'
   - ' §fЭтот режим, который не даст заскучать,' 
@@ -787,8 +787,8 @@ GAMEREWARD_SMASHER_LORE:
   - ' §fв топ, чтобы показать кто тут батя!' 
   - ''
   - '§e▸ Нажмите, чтобы присоединиться'
-GAMEREWARD_CLOSE_NAME: 'Выход из меню'
-GAMEREWARD_CLOSE_LORE:
+GAMEMENU_CLOSE_NAME: 'Выход из меню'
+GAMEMENU_CLOSE_LORE:
   - ''
   - '§7Описание:'
   - '§f Нажмите на данный предмет,'
@@ -797,6 +797,19 @@ GAMEREWARD_CLOSE_LORE:
   - '§e▸ Нажмите, чтобы выйти'
     
 GAMEREWARD_PAGE: 'Награды за победу'
+GAMEREWARD_SKYWARS_NAME: 'SkyWars'
+GAMEREWARD_SKYWARS_LORE:
+  - '§fОдиночный режим:'
+  - ' §8▪ §7Убийство - §a1 XP'
+  - ' §8▪ §e1 §7место - §630 монет'
+  - ' §8▪ §62 §7место - §620 монет'
+  - ' §8▪ §c3 §7место - §610 монет'
+  - '§fКомандный режим:'
+  - ' §8▪ §7Убийство - §a1 XP'
+  - ' §8▪ §7Победа вашей команды - §630 монет§7, §a+50 XP'
+  - '§fРейтинговый режим:'
+  - ' §8▪ §7Убийство - §a2 XP'
+  - ' §8▪ §7Победа вашей команды - §630 монет§7, §a+50 XP'
 GAMEREWARD_BOOSTERS_NAME: 'Бустеры для донатеров'
 GAMEREWARD_BOOSTERS_LORE:
   - '§7Донатеры имеют свои бустеры,'
@@ -981,7 +994,6 @@ SUFFIX_CATEGORY_MARVEL_LORE:
   - '§7Открыто суффиксов: §r%s/%s §8(%s)'
   - ''
   - '§e▸ Нажмите, чтобы открыть меню'
-
 
 SUFFIX_CATEGORY_HALLOWEEN_NAME: '§6Хэллоуин'
 SUFFIX_CATEGORY_HALLOWEEN_LORE:
