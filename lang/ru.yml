@@ -757,7 +757,7 @@ GAMEMENU_GUNGAME_LORE:
   - ' §fубивая игроков вы прокачиваете свой'
   - ' §fуровень и получаете новый вещи.' 
   - ''
-  - '§c▸ Данный режим находится в разработке..'
+  - '§e▸ Нажмите, чтобы присоединиться'
 GAMEMENU_SURVIVAL_NAME: 'Survival'
 GAMEMENU_SURVIVAL_LORE:
   - ''
@@ -789,7 +789,7 @@ GAMEMENU_SMASHER_LORE:
   - ' §fпрокачивай свое оружие, броню, выбивайся'
   - ' §fв топ, чтобы показать кто тут батя!' 
   - ''
-  - '§e▸ Нажмите, чтобы присоединиться'
+  - '§c▸ Данный режим находится в разработке..'
 GAMEMENU_CLOSE_NAME: 'Выход из меню'
 GAMEMENU_CLOSE_LORE:
   - ''
@@ -798,8 +798,23 @@ GAMEMENU_CLOSE_LORE:
   - '§f чтобы закрыть данное меню'
   - ''
   - '§e▸ Нажмите, чтобы выйти'
+
+DONATELIST_LEGENDARY_NAME: 'Legendary'
+DONATELIST_LEGENDARY_LORE:
+  - ''
+  - ' §8▪ §fИгровой префикс §7- §6§lLEGEND §6%s'
+  - ' §8▪ §fБесплатные &eмонеты §fпри покупке'
+  - ' §8▪ §fСтоимость §7- §62100 &fрублей'
+  - ''
+  - ' §8▪ §fКупить привилегию можно на нашем'
+  - ' §8▪ §fофициальном сайте: §ewww.litedays.ru'
+  - ''
+  - '§e▸ Открыть меню возможностей'   
+GAMEREWARD_GUNGAME_NAME: 'GunGame'
+GAMEREWARD_GUNGAME_LORE:
+  - ' §8▪ §7Убийство - §e1 монета§7, §a3 XP'
     
-\_PAGE: 'Награды за победу'
+GAMEREWARD_PAGE: 'Награды за победу'
 GAMEREWARD_SKYWARS_NAME: 'SkyWars'
 GAMEREWARD_SKYWARS_LORE:
   - '§fОдиночный режим:'
