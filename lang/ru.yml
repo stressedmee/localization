@@ -448,6 +448,10 @@ ITEMS_LOBBY_PROFILE_NAME: '§eПрофиль игрока'
 ITEMS_LOBBY_PROFILE_LORE:
   - '§7Полезная информация'
   - '§7о вашем аккаунте'
+ITEMS_LOBBY_EXIT_NAME: '§eВыход в лобби'
+ITEMS_LOBBY_EXIT_LORE:
+  - '§7Выход в главное лобби'
+  - '§7сервера'
 
 MYWARP_ITEM_CHANGER_LORE:
 - ''
