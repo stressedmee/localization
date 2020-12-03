@@ -639,12 +639,12 @@ LOBBY_SETTINGS_UNAVAILABLE:
 - ''
 - '§7Доступно от %s §7и выше'
 
-MODULE_LIST_LOBBY: '§aModules (2): ProxyConnector§f, §aLobby'
+MODULE_LIST_LOBBY: '§fModules (2): §aProxyConnector§f, §aLobby'
 
 GAMEMENU_ITEM_UPDATE_NAME: '§lОбновлено!'
 GAMEMENU_ITEM_NEW_NAME: '§lНовый!'
 
-HOLO_NPC_LOBBY: '§fНа режиме играет '
+HOLO_NPC_ONLINE: '§fНа режиме играет '
 
 PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Настройки'
 
