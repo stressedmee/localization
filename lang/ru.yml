@@ -519,7 +519,7 @@ FRIEND_GUI_MAIN_LORE:
 GIVEMONEY: '§eМодерация §8| %s §rначислил на аккаунт %s §7- %s §r%s'
 
 DONATECHAT_FORMAT: '§6Чат донатеров §8| §r%s §8» §7%s'
-STAFFCHAT_FORMAT: '§cЧат персонала §8 §r%s §8» §f%s'
+STAFFCHAT_FORMAT: '§cЧат персонала §8| §r%s §8» §f%s'
 
 COMMAND_HUB: '§fВы были перемещены на сервер: §aLOBBY-1'
 
