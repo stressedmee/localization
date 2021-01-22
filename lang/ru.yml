@@ -831,7 +831,7 @@ DONATELIST_VIP_LORE:
   - ' §8▪ §fможно на нашем официальном сайте:'
   - ' §8▪ §e§nwww.litedays.ru '
   - ''
-DONATELIST_NORNAL_NAME: 'Normal' 
+DONATELIST_NORMAL_NAME: 'Normal' 
 DONATELIST_NORMAL_LORE:
   - ''
   - ' §8▪ §fИгровой префикс §7- §e§lNORMAL §e%s'
