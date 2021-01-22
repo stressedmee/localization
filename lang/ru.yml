@@ -757,7 +757,7 @@ GAMEMENU_SKYBLOCK_LORE:
   - ' §fи построй лучший отсров.'
   - ''
   - '§c▸ Данный режим находится в разработке..'
-GAMEMENU_GUNGAME_NAME: 'GunGame'
+GAMEMENU_GUNGAME_NAME: '§cGunGame'
 GAMEMENU_GUNGAME_LORE:
   - ''
   - '§7Описание:'
@@ -765,7 +765,7 @@ GAMEMENU_GUNGAME_LORE:
   - ' §fубивая игроков вы прокачиваете свой'
   - ' §fуровень и получаете новый вещи.' 
   - ''
-  - '§e▸ Нажмите, чтобы присоединиться'
+  - '§c▸ Данный режим находится в разработке..'
 GAMEMENU_SURVIVAL_NAME: 'Survival'
 GAMEMENU_SURVIVAL_LORE:
   - ''
@@ -787,7 +787,7 @@ GAMEMENU_STICKDUELS_LORE:
   - ' §fДеревянная палка, блоки а также кирка.'
   - ' §fПохоже на идеальный состав юного билдера.'
   - ''
-  - '§c▸ Данный режим находится в разработке..'
+  - '§e▸ Нажмите, чтобы присоединиться'
 GAMEMENU_SMASHER_NAME: 'Smasher'
 GAMEMENU_SMASHER_LORE:
   - ''
