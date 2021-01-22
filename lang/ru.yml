@@ -819,7 +819,7 @@ DONATELIST_LITE_LORE:
   - ' §8▪ §fКупить и посмотреть возможности привилегии' 
   - ' §8▪ §fможно на нашем официальном сайте:'
   - ' §8▪ §e§nwww.litedays.ru '
-  - §8'
+  - ''
 DONATELIST_VIP_NAME: 'VIP'
 DONATELIST_VIP_LORE:
   - ''
@@ -830,7 +830,7 @@ DONATELIST_VIP_LORE:
   - ' §8▪ §fКупить и посмотреть возможности привилегии' 
   - ' §8▪ §fможно на нашем официальном сайте:'
   - ' §8▪ §e§nwww.litedays.ru '
-  - '§8'
+  - ''
 DONATELIST_NORNAL_NAME: 'Normal' 
 DONATELIST_NORMAL_LORE:
   - ''
@@ -841,7 +841,7 @@ DONATELIST_NORMAL_LORE:
   - ' §8▪ §fКупить и посмотреть возможности привилегии' 
   - ' §8▪ §fможно на нашем официальном сайте:'
   - ' §8▪ §e§nwww.litedays.ru '
-  - '§8'
+  - ''
 DONATELIST_ULTRA_NAME: 'Ultra'
 DONATELIST_ULTRA_LORE:
   - ''
@@ -852,7 +852,7 @@ DONATELIST_ULTRA_LORE:
   - ' §8▪ §fКупить и посмотреть возможности привилегии' 
   - ' §8▪ §fможно на нашем официальном сайте:'
   - ' §8▪ §e§nwww.litedays.ru '
-  - '§8'
+  - ''
 DONATELIST_DELUXE_NAME: 'Deluxe'
 DONATELIST_DELUXE_LORE:
   - ''
@@ -863,7 +863,7 @@ DONATELIST_DELUXE_LORE:
   - ' §8▪ §fКупить и посмотреть возможности привилегии' 
   - ' §8▪ §fможно на нашем официальном сайте:'
   - ' §8▪ §e§nwww.litedays.ru '
-  - '§8'
+  - ''
 DONATELIST_LEGENDARY_NAME: 'Sponsor'
 DONATELIST_LEGENDARY_LORE:
   - ''
@@ -874,7 +874,7 @@ DONATELIST_LEGENDARY_LORE:
   - ' §8▪ §fКупить и посмотреть возможности привилегии' 
   - ' §8▪ §fможно на нашем официальном сайте:'
   - ' §8▪ §e§nwww.litedays.ru '
-  - '§8'
+  - ''
 DONATELIST_PARENTS_NAME: 'Зачем все это нужно?'
 DONATELIST_PARENTS_LORE:
   - ''
