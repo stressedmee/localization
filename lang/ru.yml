@@ -1125,8 +1125,8 @@ SUFFIX_CATEGORY_HALLOWEEN_LORE:
   - ''
   - '§e▸ Нажмите, чтобы открыть меню'
   
-SUFFIX_CATEGORY_WINTER_NAME: '§bЗима'
-SUFFIX_CATEGORY_WINTER_LORE:
+SUFFIX_CATEGORY_WITNER_NAME: '§bЗима'
+SUFFIX_CATEGORY_WITNER_LORE:
   - '§7Кажется уже снежок на улице, так сделайте'
   - '§7новогоднию атмосферу на сервере!'
   - ''
