@@ -726,7 +726,7 @@ PROFILE_MAIN_ITEM_SOON_NAME: '???'
 PROFILE_MAIN_ITEM_SOON_LORE:
   - ''
 
-GAMEMENU_SKYWARS_NAME: 'SkyWars'
+GAMEMENU_SKYWARS_NAME: '§cSkyWars'
 GAMEMENU_SKYWARS_LORE:
   - ''
   - '§7Описание:'
@@ -735,7 +735,7 @@ GAMEMENU_SKYWARS_LORE:
   - ' §fначинает игру на собственном острове'
   - ' §fс различными ресурсами и предметами.' 
   - ''
-  - '§e▸ Нажмите, чтобы присоединиться'
+  - '§c▸ Данный режим находится в разработке..'
 GAMEMENU_BEDWARS_NAME: 'BedWars'
 GAMEMENU_BEDWARS_LORE:
   - ''
@@ -757,7 +757,7 @@ GAMEMENU_SKYBLOCK_LORE:
   - ' §fи построй лучший остров.'
   - ''
   - '§c▸ Данный режим находится в разработке..'
-GAMEMENU_GUNGAME_NAME: '§cDuels'
+GAMEMENU_GUNGAME_NAME: '§bDuels'
 GAMEMENU_GUNGAME_LORE:
   - ''
   - '§7Описание:'
@@ -765,7 +765,7 @@ GAMEMENU_GUNGAME_LORE:
   - ' §fубивая игроков вы прокачиваете свой'
   - ' §fуровень и получаете новый вещи.' 
   - ''
-  - '§c▸ Данный режим находится в разработке..'
+  - '§e▸ Нажмите, чтобы присоединиться'
 GAMEMENU_SURVIVAL_NAME: 'Grief'
 GAMEMENU_SURVIVAL_LORE:
   - ''
