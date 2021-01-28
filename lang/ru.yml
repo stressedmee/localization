@@ -1082,7 +1082,7 @@ LEVEL_REWARD_LORE2:
   - ''
   - '§e▸ Нажмите, чтобы получить награду'
 
-STREAMS_LIST: '§6Streamms §8| §fСписок активных стримов:'
+STREAMS_LIST: '§6Streams §8| §fСписок активных стримов:'
 
 SUFFIX_ITEM_NAME: 'Суффикс %s'
 SUFFIX_ITEM_LORE:
