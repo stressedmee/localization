@@ -120,6 +120,7 @@ GROUP_MIGRATES_BROADCAST: 'Группа игрока %s §rбыла успешн
 GROUP_CHANGES_BROADCAST: '%s §rизменил группу игрока %s §rна %s'
 GROUP_CHANGE: 'Группа %s §rбыла успешно установлена игроку %s'
 PLAYER_ALREADY_GROUP: '§cОшибка, у игрока %s §cуже имеется данная группа'
+GROUP_RANK_UP: '§fВы не можете изменить группу данного игрока так как она выше вашей'
 
 CREATIVE: 'Творческий'
 SURVIVAL: 'Выживание'
@@ -1071,7 +1072,7 @@ DARK_GREEN: 'Зеленый'
 BLUE: 'Синий'
 
 #Core
-CORE_CONNECT_SERVER: '§aCore §8| §fТелепортация на сервер: %s'
+CORE_CONNECT_SERVER: '§aCore §8| §fТелепортация на сервер: §a%s'
 CORE_NOT_CONNECT: '§cCore §8| §fПрокси не подключен к главному ядру. Мы вас уведомим когда подключение возобновится!'
 CORE_ALREADY_HUB: '§cCore §8| §fВы уже находитесь на сервере в §aхабе§f.'
 CORE_ONLINE_COMMAND: '§eCore §8| §fНа данный момент онлайн всех серверов §a%s §fигроков'
