@@ -726,8 +726,9 @@ PROFILE_MAIN_ITEM_SOON_NAME: '???'
 PROFILE_MAIN_ITEM_SOON_LORE:
   - ''
 
-GAMEMENU_SKYWARS_NAME: '§cSkyWars'
+GAMEMENU_SKYWARS_NAME: '§bSkyWars'
 GAMEMENU_SKYWARS_LORE:
+  - '§8Бои на островах'
   - ''
   - '§7Описание:'
   - ' §fВ этой мини игре нужно сразиться с' 
@@ -735,8 +736,8 @@ GAMEMENU_SKYWARS_LORE:
   - ' §fначинает игру на собственном острове'
   - ' §fс различными ресурсами и предметами.' 
   - ''
-  - '§c▸ Данный режим находится в разработке..'
-GAMEMENU_BEDWARS_NAME: 'BedWars'
+  - '§e▸ Нажмите, чтобы присоединиться'
+GAMEMENU_BEDWARS_NAME: '§cBedWars'
 GAMEMENU_BEDWARS_LORE:
   - ''
   - '§7Описание:'
@@ -746,7 +747,7 @@ GAMEMENU_BEDWARS_LORE:
   - ' §fпокупай более дорогое оружие и многое другое...' 
   - ''
   - '§c▸ Данный режим находится в разработке..'
-GAMEMENU_SKYBLOCK_NAME: 'SkyBlock'
+GAMEMENU_SKYBLOCK_NAME: '§cSkyBlock'
 GAMEMENU_SKYBLOCK_LORE:
   - ''
   - '§7Описание:'
@@ -757,7 +758,7 @@ GAMEMENU_SKYBLOCK_LORE:
   - ' §fи построй лучший остров.'
   - ''
   - '§c▸ Данный режим находится в разработке..'
-GAMEMENU_GUNGAME_NAME: '§bDuels'
+GAMEMENU_GUNGAME_NAME: '§cDuels'
 GAMEMENU_GUNGAME_LORE:
   - ''
   - '§7Описание:'
@@ -766,7 +767,7 @@ GAMEMENU_GUNGAME_LORE:
   - ' §fуровень и получаете новый вещи.' 
   - ''
   - '§e▸ Нажмите, чтобы присоединиться'
-GAMEMENU_SURVIVAL_NAME: 'Grief'
+GAMEMENU_SURVIVAL_NAME: '§cGrief'
 GAMEMENU_SURVIVAL_LORE:
   - ''
   - '§7Описание:'
@@ -778,7 +779,7 @@ GAMEMENU_SURVIVAL_LORE:
   - '§7Версия режима: §e1.12.2+'
   - ''
   - '§c▸ Данный режим находится в разработке..'
-GAMEMENU_STICKDUELS_NAME: 'StickDuels'
+GAMEMENU_STICKDUELS_NAME: '§bStickDuels'
 GAMEMENU_STICKDUELS_LORE:
   - ''
   - '§7Описание:'
@@ -788,7 +789,7 @@ GAMEMENU_STICKDUELS_LORE:
   - ' §fПохоже на идеальный состав юного билдера.'
   - ''
   - '§e▸ Нажмите, чтобы присоединиться'
-GAMEMENU_SMASHER_NAME: 'Smasher'
+GAMEMENU_SMASHER_NAME: '§cSmasher'
 GAMEMENU_SMASHER_LORE:
   - ''
   - '§7Описание:'
@@ -798,14 +799,12 @@ GAMEMENU_SMASHER_LORE:
   - ' §fв топ, чтобы показать кто тут батя!' 
   - ''
   - '§c▸ Данный режим находится в разработке..'
-GAMEMENU_CLOSE_NAME: 'Выход из меню'
-GAMEMENU_CLOSE_LORE:
+GAMEMENU_DONATE_NAME: '§bПривилегии'
+GAMEMENU_DONATE_LORE:
+  - '§7Все возможности привилегий расписаны в'
+  - '§7этом разделе, и на сайте нашего сервера.'
   - ''
-  - '§7Описание:'
-  - '§f Нажмите на данный предмет,'
-  - '§f чтобы закрыть данное меню'
-  - ''
-  - '§e▸ Нажмите, чтобы выйти'
+  - '§e▸ Открыть меню привилегий'
   
   
 # Привилегии
@@ -1060,6 +1059,7 @@ PREFIX_ITEM_LORE_SELECTED:
 PREFIX_HAS_BEEN_CHANGED: '§fПрефикс §aуспешно §fизменён!'
 
 RED: 'Красный'
+DARK_RED: 'Темно - красный'
 DARK_PURPLE: 'Фиолетовый'
 LIGHT_PURPLE: 'Розовый'
 YELLOW: 'Желтый'
@@ -1069,6 +1069,12 @@ WHITE: 'Белый'
 GOLD: 'Оранджевый'
 DARK_GREEN: 'Зеленый'
 BLUE: 'Синий'
+
+#Core
+CORE_CONNECT_SERVER: '§aCore §8| §fТелепортация на сервер: %s'
+CORE_NOT_CONNECT: '§cCore §8| §fПрокси не подключен к главному ядру. Мы вас уведомим когда подключение возобновится!'
+CORE_ALREADY_HUB: '§cCore §8| §fВы уже находитесь на сервере в §aхабе§f.'
+CORE_ONLINE_COMMAND: '§eCore §8| §fНа данный момент онлайн всех серверов §a%s §fигроков'
 
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVEL_REWARD_LORE:
