@@ -1077,9 +1077,12 @@ RESET_PREFIX_LORE:
 PREFIX_HAS_BEEN_CHANGED: '§fПрефикс §aуспешно §fизменён!'
 
 BOSS_BAR_LOBBY:
+- '§fВ ЧЕСТЬ §aОТКРЫТИЯ §fСЕРВЕРА ДОБАВЛЕН ПРОМОКОД §7► §e§lOPEN15'
+- '§fУЗНАВАЙ О НОВОСТЯХ СЕРВЕРА В ГРУППЕ §9§lVK §7► §e§lVK.COM/LITEDAYS'
 - '§fСОКРУШИТЕЛЬНЫЙ §cОБВАЛ §fЦЕН! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §610%'
-- '§fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lLAST-CRAFT.COM'
-- '§fГОЛОСОВОЙ ЧАТ СЕРВЕРА §9§lDISCORD §7► §d§lDISCORD.LASTCRAFT.NET'
+- '§fПОКУПКА§e ПРИВИЛЕГИЙ §fНА САЙТЕ §7► §6§lWWW.LITEDAYS.RU'
+- '§fВЫ МОЖЕТЕ СМЕНИТЬ СКИН КОМАНДОЙ §7► §c§l/SKIN SET <НИК>'
+- '§fГОЛОСОВОЙ ЧАТ СЕРВЕРА §9§lDISCORD §7► §d§lINVITE.GG/LITEDAYS'
 
 RED: 'Красный'
 DARK_RED: 'Темно - красный'
