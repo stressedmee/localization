@@ -115,6 +115,14 @@ REPLY_HOVER_MESSAGE:
 - '§fНажмите сюда, чтобы еще раз написать'
 - '§fигроку %s §fв лс'
 
+STAFFCHAT_ENABLED: '%s §rвключил чат персонала'
+STAFFCHAT_DISABLED: '%s §rотключил чат персонала'
+
+FIND_RESULT: '§fМы нашли для вас %s'
+
+YOU_HAVE_BEEN_SENT: '%s §fтелепортировал вас на сервер §e%s'
+SENDING_PLAYER_TO_SERVER: '%s §fуспешно телепортирован на сервер §e%s'
+
 GROUP_HELP:
   - ' §7/group set <ник игрока> <группа> §f- обновить группу'
   - ' §7/group list §f- список доступных статусов'
@@ -123,7 +131,7 @@ GROUP_MIGRATES_BROADCAST: 'Группа игрока %s §rбыла успешн
 GROUP_CHANGES_BROADCAST: '%s §rизменил группу игрока %s §rна %s'
 GROUP_CHANGE: 'Группа %s §rбыла успешно установлена игроку %s'
 PLAYER_ALREADY_GROUP: '§cОшибка, у игрока %s §cуже имеется данная группа'
-GROUP_RANK_UP: '§fВы не можете изменить группу данного игрока так как она выше вашей'
+GROUP_RANK_UP: '§fОшибка, вы не можете выдавать группу администратора'
 YOU_CANT_GIVE_GROUP_YOURSELF: '§fОшибка, вы не можете изменить свою группу'
 
 CREATIVE: 'Творческий'
@@ -154,9 +162,6 @@ HIDER_DISABLE_LORE:
 - ''
 - '§eНажмите, чтобы скрыть игроков'
 
-STAFFCHAT_ENABLED: '%s §rвключил чат персонала'
-STAFFCHAT_DISABLED: '%s §rотключил чат персонала'
-
 CRASH: 'Вы крашнули клиент игрока %s'
 AFK: '§cНе стой на месте!'
 
@@ -169,11 +174,6 @@ SKIN_UPDATE_TO: 'Вы обновили скин игрока %s'
 SKIN_UPDATE: 'Вы успешно обновили свой скин'
 SKIN_HAS_BEEN_CHANGED: 'Вы изменили свой скин на §e%s'
 SKIN_HAS_BEEN_CHANGED_URL: 'Вы изменили свой скин с помощью §e%s'
-
-FIND_RESULT: '§fМы нашли для вас %s'
-
-YOU_HAVE_BEEN_SENT: '%s §fтелепортировал вас на сервер §e%s'
-SENDING_PLAYER_TO_SERVER: '%s §fуспешно телепортирован на сервер §e%s'
 
 SKIN_HELP:
   - ' §7/skin set <ник игрока> §f- установить скин игрока'
@@ -642,8 +642,6 @@ LOBBY_SETTINGS_UNAVAILABLE:
 - ''
 - '§7Доступно от %s §7и выше'
 
-MODULE_LIST_LOBBY: '§fModules (2): §aProxyConnector§f, §aLobby'
-
 GAMEMENU_ITEM_UPDATE_NAME: '§lОбновлено!'
 GAMEMENU_ITEM_NEW_NAME: '§lНовый!'
 
@@ -845,7 +843,7 @@ DONATELIST_IRON_LORE:
   - ''
   - ' §8▪ §fИгровой префикс §7- §7§lIRON §7%s'
   - ' §8▪ §fБесплатные §eмонеты §fпри покупке'
-  - ' §8▪ §fСтоимость §7- §7100 §fрублей'
+  - ' §8▪ §fСтоимость §7- §730 §fрублей'
   - ''
   - ' §8▪ §fКупить и посмотреть возможности привилегии' 
   - ' §8▪ §fможно на нашем официальном сайте:'
@@ -889,7 +887,7 @@ DONATELIST_SPONSOR_LORE:
   - ''
   - ' §8▪ §fИгровой префикс §7- §e§lSPONSOR §e%s'
   - ' §8▪ §fБесплатные §eмонеты §fпри покупке'
-  - ' §8▪ §fСтоимость §7- §e2100 §fрублей'
+  - ' §8▪ §fСтоимость §7- §e1750 §fрублей'
   - ''
   - ' §8▪ §fКупить и посмотреть возможности привилегии' 
   - ' §8▪ §fможно на нашем официальном сайте:'
@@ -953,12 +951,11 @@ GAMEREWARD_BOOSTERS_LORE:
   - '§7которые могут бесплатно'
   - '§7использовать'
   - ''
-  - ' §8▸ §d§lLITE  §7- §f1.2x'
-  - ' §8▸ §a§lVIP §7- §f1.4x'
-  - ' §8▸ §6§lNORMAL §7- §f1.6x'
-  - ' §8▸ §b§lULTRA §7- §f1.8x'
-  - ' §8▸ §5§lDELUXE §7- §f2.2x'
-  - ' §8▸ §e§lSPONSOR §7- §f2.5x'
+  - ' §8▸ §7§lIRON  §7- §f1.2x'
+  - ' §8▸ §e§lGOLD §7- §f1.4x'
+  - ' §8▸ §b§lULTRA §7- §f1.6x'
+  - ' §8▸ §5§lDELUXE §7- §f1.8x'
+  - ' §8▸ §e§lSPONSOR §7- §f2.0x'
   - ''
   - '§7Приобрести привилегии можно'
   - '§7на сайте §ewww.litedays.ru'
@@ -985,11 +982,10 @@ HELPPAGE_SELECTOR_LORE:
 HELPPAGE_DONATE_NAME: 'Привилегии'
 HELPPAGE_DONATE_LORE:
   - '§7Список привилегий:'
-  - ' §8▸ §d§lLITE §7- §f100 рублей'
-  - ' §8▸ §a§lVIP §7- §f240 рублей'
-  - ' §8▸ §e§lNORMAL §7- §f370 рублей'
-  - ' §8▸ §b§lULTRA §7- §f620 рублей'
-  - ' §8▸ §5§lDELUXE §7- §f950 рублей'
+  - ' §8▸ §7§lIRON §7- §f100 рублей'
+  - ' §8▸ §e§lGOLD §7- §f240 рублей'
+  - ' §8▸ §b§lULTRA §7- §f370 рублей'
+  - ' §8▸ §5§lDELUXE §7- §f620 рублей'
   - ' §8▸ §e§lSPONSOR §7- §f2100 рублей'
   - ''
   - '§7Подробное описание привилегий можно'
@@ -1137,7 +1133,6 @@ SUFFIX_ITEM_LORE:
   - ' %s'
   
 JOIN_PLAYER_TO_LOBBY: '§e☇ %s §eзашёл на сервер!'
-JOIN_PLAYER_LO_LOBBY: '§e☇ %s §eзашёл на сервер!'
 JOIN_MESSAGE_LORE_SELECT: '§a▸ Сообщение выбрано'
 JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Нажмите, чтобы выбрать'
 JOIN_MESSAGE_MENU_NAME: 'Сообщения при входе'
