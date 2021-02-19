@@ -473,7 +473,7 @@ ITEMS_LOBBY_EXIT_NAME: '§eВыход в лобби'
 ITEMS_LOBBY_EXIT_LORE:
   - '§7Выход в главное лобби'
   - '§7сервера'
-ITEMS_LOBBY_SELECTLOBBY_NAME: '♀eВыбор лобби'
+ITEMS_LOBBY_SELECTLOBBY_NAME: '§eВыбор лобби'
   - '§7Выберите удобное вам лобби и' 
   - '§7найдите своих друзей там' 
 
