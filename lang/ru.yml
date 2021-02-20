@@ -30,7 +30,6 @@ STREAMS_START:
 STREAMS_HELP:
   - ' §6* /stream <ссылка> §f- запустить прямую трнасляцию'
   - ' §6* /stream stop §f- остановить прямую трансляцию'
-STREAMS_  
 
 TIME_DAY_1:
 - 'д'
